@@ -1,0 +1,22 @@
+{
+  "duration_seconds": 15,
+  "frames": 450,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "codecs": [
+    "H264",
+    "AAC"
+  ],
+  "mode": "autonomous video-shotcraft",
+  "typecheck": "passed",
+  "independent_review": "no confirmed must-fix; perceptual audio and strict historical Gallery fidelity unverifiable",
+  "workbench_parity": "0 differing pixels at frames150,285,420",
+  "audio_offset_ms": 0,
+  "sfx_peak_error_max_frames": 1.213,
+  "delivery_count": "cumulative delivered, user confirmed",
+  "backgrounds": "AI-cleaned keyframe reconstructions; not pixel-identical original photography",
+  "visual_3d": "2.5D layers; no vehicle mesh"
+}

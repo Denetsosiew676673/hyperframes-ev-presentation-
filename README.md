@@ -21,3 +21,14 @@ Based on the two supplied brand-cover and globe keyframes. English male narratio
 - [Source fidelity, script and development details](uniland-global-25s/README.md)
 
 10,000+ is cumulative deliveries, as confirmed by the user. Backgrounds were AI-cleaned/reconstructed from the supplied keyframes and may differ in vehicle detail; titles, icons, routes, stats and captions are independent editable layers.
+
+## Latest: UNILAND video-shotcraft brand film · 15 seconds
+
+English male narration, synchronized subtitles, layered vehicle parallax, animated global routes, delivery counter and a cinematic brand finale. 1920 × 1080, 30 fps, exactly 15 seconds.
+
+- [Download 15-second MP4](uniland-shotcraft-15s/renders/uniland-shotcraft-15s.mp4)
+- [Download editable project ZIP](uniland-shotcraft-15s-project.zip)
+- [Preview screenshots](uniland-shotcraft-15s/previews)
+- [Script, editing and validation notes](uniland-shotcraft-15s/README.md)
+
+10,000+ means cumulative deliveries. Backgrounds are AI reconstructions of the supplied keyframes; animation uses 2.5D layers rather than a vehicle 3D model.

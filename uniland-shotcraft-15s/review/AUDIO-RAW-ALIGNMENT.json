@@ -1,0 +1,51 @@
+{
+  "pipeline": {
+    "remotion": "4.0.484",
+    "container": "mp4",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "sample_rate_analysis": 16000,
+    "date": "2026-10-20"
+  },
+  "method": "FFT cross-correlation of rendered mixed audio with complete original voiceover, within +/-100ms; source SFX attack peaks separately measured",
+  "output_voice_offset_samples": 683,
+  "output_voice_offset_ms": 42.6875,
+  "output_voice_offset_frames_30fps": 1.2806250000000001,
+  "source_sfx_peak_lag_ms": {
+    "transition.mp3": 434.625,
+    "impact.mp3": 551.125,
+    "shimmer.mp3": 926.25,
+    "riser.wav": 919.9375
+  },
+  "max_amplitude": 0.8724169731140137,
+  "rms_dbfs": -18.998140354300478,
+  "corroborating_windows": [
+    {
+      "window_seconds": [
+        1.4,
+        3.6
+      ],
+      "lag_samples": 683,
+      "lag_ms": 42.6875,
+      "normalized_correlation": 0.9899421396889245
+    },
+    {
+      "window_seconds": [
+        6.0,
+        7.5
+      ],
+      "lag_samples": 683,
+      "lag_ms": 42.6875,
+      "normalized_correlation": 0.9808493109038294
+    },
+    {
+      "window_seconds": [
+        11.5,
+        13.7
+      ],
+      "lag_samples": 683,
+      "lag_ms": 42.6875,
+      "normalized_correlation": 0.9431708670325858
+    }
+  ]
+}

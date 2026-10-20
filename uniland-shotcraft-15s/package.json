@@ -1,0 +1,27 @@
+{
+  "name": "uniland-shotcraft-15s",
+  "version": "1.0.0",
+  "description": "UNILAND MOTORS \u2014 15 second B2B brand film",
+  "scripts": {
+    "dev": "remotion studio src/index.ts --no-open --port=3020",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.ts Uniland15 out/uniland-shotcraft-15s-raw.mp4 --browser-executable=/usr/bin/chromium --concurrency=3 --crf=17 && python3 scripts/finalize.py"
+  },
+  "repository": {},
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "private": true
+}

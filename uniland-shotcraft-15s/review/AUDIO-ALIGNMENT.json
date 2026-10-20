@@ -1,0 +1,91 @@
+{
+  "pipeline": {
+    "remotion": "4.0.484",
+    "container": "mp4",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "sample_rate_analysis": 16000,
+    "date": "2026-10-20"
+  },
+  "method": "FFT cross-correlation of rendered mixed audio with complete original voiceover, within +/-100ms; source SFX attack peaks separately measured",
+  "output_voice_offset_samples": 0,
+  "output_voice_offset_ms": 0.0,
+  "output_voice_offset_frames_30fps": 0.0,
+  "source_sfx_peak_lag_ms": {
+    "transition.mp3": 434.625,
+    "impact.mp3": 551.125,
+    "shimmer.mp3": 926.25,
+    "riser.wav": 919.9375
+  },
+  "max_amplitude": 0.8519678711891174,
+  "rms_dbfs": -18.973543709999444,
+  "corroborating_windows": [
+    {
+      "window_seconds": [
+        1.4,
+        3.6
+      ],
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "normalized_correlation": 0.9999642566194329
+    },
+    {
+      "window_seconds": [
+        6.0,
+        7.5
+      ],
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "normalized_correlation": 0.9972537984908483
+    },
+    {
+      "window_seconds": [
+        11.5,
+        13.7
+      ],
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "normalized_correlation": 0.96227101545821
+    }
+  ],
+  "sfx_cross_correlation_probes": [
+    {
+      "effect": "route1",
+      "cue_frame": 181,
+      "source": "impact.mp3",
+      "residual_start_samples": -5,
+      "residual_start_ms": -0.3125,
+      "residual_start_frames": -0.009375
+    },
+    {
+      "effect": "route2",
+      "cue_frame": 217,
+      "source": "impact.mp3",
+      "residual_start_samples": -5,
+      "residual_start_ms": -0.3125,
+      "residual_start_frames": -0.009375
+    },
+    {
+      "effect": "brand-stamp",
+      "cue_frame": 361,
+      "source": "impact.mp3",
+      "residual_start_samples": -5,
+      "residual_start_ms": -0.3125,
+      "residual_start_frames": -0.009375
+    },
+    {
+      "effect": "url-shimmer",
+      "cue_frame": 365,
+      "source": "shimmer.mp3",
+      "residual_start_samples": 5,
+      "residual_start_ms": 0.3125,
+      "residual_start_frames": 0.009375
+    }
+  ],
+  "source_peak_target_residuals_frames": {
+    "route1": 0.5337499999999977,
+    "route2": 0.5337499999999977,
+    "brand_stamp": -0.4662500000000023,
+    "url_settle": -1.2125000000000057
+  }
+}

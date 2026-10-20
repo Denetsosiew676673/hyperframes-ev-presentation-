@@ -1,0 +1,32 @@
+[
+  {
+    "key": "brand",
+    "text": "Uniland Motors.",
+    "start": 0.25,
+    "end": 1.5890070921985815
+  },
+  {
+    "key": "offer",
+    "text": "New, used, and electric vehicles.",
+    "start": 1.7166666666666668,
+    "end": 4.122340425531915
+  },
+  {
+    "key": "proof",
+    "text": "Over ten thousand vehicles delivered.",
+    "start": 5.75,
+    "end": 8.314539007092199
+  },
+  {
+    "key": "reach",
+    "text": "Global reach.",
+    "start": 8.442198581560284,
+    "end": 9.599645390070922
+  },
+  {
+    "key": "cta",
+    "text": "Start your next business partnership with Uniland Motors today.",
+    "start": 10.55,
+    "end": 14.225455207574655
+  }
+]
