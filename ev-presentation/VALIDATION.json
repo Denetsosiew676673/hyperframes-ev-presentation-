@@ -1,0 +1,35 @@
+{
+  "composition": "Uniland \u2014 Global Momentum (review draft)",
+  "resolution": "1920x1080",
+  "duration_seconds": 124.571,
+  "slides": 6,
+  "subtitle_phrases": 35,
+  "checks": {
+    "runtime": "passed",
+    "motion": "passed",
+    "layout": "passed; intentional scene-transition layering marked",
+    "contrast": "72/72 WCAG AA checks passed",
+    "lint": "0 errors; 6 recommendations to split inline scenes into subcompositions"
+  },
+  "limitations": [
+    "Original source photographs not available as files",
+    "Clipped Leapmotor label unresolved",
+    "Phrase subtitle timing distributed within measured sentence boundaries"
+  ],
+  "narration": {
+    "engine": "Kokoro ONNX v1.0",
+    "voice": "af_nova",
+    "speed": 0.94,
+    "sample_rate": 24000
+  },
+  "export": {
+    "file": "renders/uniland-review.mp4",
+    "codec": "H.264 / AAC",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "duration_seconds": 124.6,
+    "bytes": 13427235,
+    "verified": "FFprobe streams, decoded audio, extracted video frame"
+  }
+}
