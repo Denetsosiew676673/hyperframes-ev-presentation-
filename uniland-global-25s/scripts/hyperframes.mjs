@@ -1,0 +1,12 @@
+import { spawnSync } from 'node:child_process';
+import { existsSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+const args=process.argv.slice(2);
+const childEnv={...process.env};
+childEnv.npm_config_cache = process.env.EV_NPM_CACHE || join(tmpdir(),'ev-npm-cache');
+if(!childEnv.HYPERFRAMES_BROWSER_PATH&&existsSync('/usr/bin/chromium')) childEnv.HYPERFRAMES_BROWSER_PATH='/usr/bin/chromium';
+childEnv.XDG_STATE_HOME ||= join(tmpdir(),'ev-hyperframes-state');
+const result=spawnSync('npx',['--yes','hyperframes@0.8.181',...args],{stdio:'inherit',env:childEnv});
+if(result.error) console.error(result.error.message);
+process.exit(result.status??1);

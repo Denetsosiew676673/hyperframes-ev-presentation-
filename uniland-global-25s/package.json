@@ -1,0 +1,10 @@
+{
+  "name": "uniland-global-25s",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/hyperframes.mjs preview",
+    "check": "node scripts/hyperframes.mjs check",
+    "render": "node scripts/hyperframes.mjs render"
+  }
+}

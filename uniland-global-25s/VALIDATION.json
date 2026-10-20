@@ -1,0 +1,32 @@
+{
+  "project": "UNILAND — Ocean to Orbit",
+  "duration_seconds": 25.0,
+  "scene_durations_seconds": [15, 10],
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "codecs": ["H.264", "AAC"],
+  "bytes": 24382390,
+  "checks": {
+    "lint": "0 errors; 2 recommendations to move inline scenes into subcompositions",
+    "runtime": "0 errors, 0 warnings",
+    "layout": "0 errors, 0 warnings; 9 informational observations about intentional background zoom and clipped odometer reels",
+    "motion": "0 errors, 0 warnings",
+    "contrast": "73/73 text checks pass WCAG AA",
+    "export": "FFprobe confirms 25s video and audio streams; actual MP4 frames inspected at 13.3s and 23.4s",
+    "audio": "Decoded successfully; mean -18.1dB, peak -1.3dB; voice master -17 LUFS target",
+    "preview": "HyperFrames Studio background preview verified on port3015; local watch page HTTP200"
+  },
+  "content": {
+    "delivery_count": "User confirmed 10,000+ means cumulative deliveries, not current stock",
+    "other_statistics": "User supplied; not independently audited",
+    "voice": "Kokoro am_michael; calm American male; no named-person impersonation",
+    "caption_alignment": "Measured separately synthesized phrase boundaries",
+    "scene_two_script": "Condensed to fit 10 seconds naturally; all six data groups remain visible"
+  },
+  "limitations": [
+    "Backgrounds are AI-cleaned/reconstructed from the supplied keyframes; exact original vehicle geometry is not guaranteed",
+    "Brand type is recreated editable text, not an official vector logo",
+    "CSS perspective and layer motion, not a 3D vehicle model",
+    "Flight routes are schematic, not verified logistics lanes"
+  ]
+}

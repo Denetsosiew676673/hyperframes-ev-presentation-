@@ -1,0 +1,65 @@
+{
+  "alignment": "measured synthesized phrase timing",
+  "phrases": [
+    {
+      "key": "brand",
+      "text": "At Uniland Motors,",
+      "start": 0.55,
+      "end": 2.1123
+    },
+    {
+      "key": "partner",
+      "text": "we are your global vehicle sourcing and export partner.",
+      "start": 2.2649,
+      "end": 5.7585
+    },
+    {
+      "key": "new",
+      "text": "We supply new cars,",
+      "start": 5.911,
+      "end": 7.5818
+    },
+    {
+      "key": "used",
+      "text": "used vehicles,",
+      "start": 7.7344,
+      "end": 8.9929
+    },
+    {
+      "key": "electric",
+      "text": "electric and plug-in hybrid models,",
+      "start": 9.1456,
+      "end": 11.7061
+    },
+    {
+      "key": "parts",
+      "text": "together with a full range of auto parts.",
+      "start": 11.8586,
+      "end": 14.3974
+    },
+    {
+      "key": "delivered",
+      "text": "Over ten thousand vehicles delivered.",
+      "start": 15.35,
+      "end": 17.7783
+    },
+    {
+      "key": "dealers",
+      "text": "Serving three hundred dealers",
+      "start": 17.9294,
+      "end": 19.713
+    },
+    {
+      "key": "countries",
+      "text": "across more than forty countries.",
+      "start": 19.864,
+      "end": 21.9484
+    },
+    {
+      "key": "world",
+      "text": "Chinese vehicles. Global reach.",
+      "start": 22.0996,
+      "end": 24.3989
+    }
+  ]
+}

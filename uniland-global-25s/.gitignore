@@ -1,0 +1,4 @@
+.hyperframes/
+renders/work-*/
+renders/.hf-segments/
+__pycache__/
