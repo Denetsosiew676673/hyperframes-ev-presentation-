@@ -1,0 +1,47 @@
+{
+  "provenance": "Transcribed from three user-uploaded chart references; user-provided figures, not independently verified. Original raster charts will not be used as video layers.",
+  "funding": {
+    "title": "BIG FUNDING. UNCERTAIN OUTCOMES.",
+    "subtitle": "Reported cumulative funding at selected EV startups",
+    "unit": "RMB billion",
+    "axis": {"min": 0, "max": 40, "step": 5},
+    "series": [
+      {"name": "WM Motor", "value": 35, "qualifier": "~", "role": "primary"},
+      {"name": "Singulato", "value": 17, "qualifier": ">", "role": "secondary"},
+      {"name": "Aiways", "value": 10, "qualifier": "~", "role": "secondary"},
+      {"name": "Byton", "value": 8.4, "qualifier": "~", "role": "secondary"}
+    ],
+    "notes": ["Approximate amounts; reporting dates and funding definitions may differ.", "Funding raised is not equivalent to cash spent or losses incurred."],
+    "source_label": "USER-PROVIDED SCRIPT | NOT INDEPENDENTLY VERIFIED"
+  },
+  "balance_sheet": {
+    "title": "WHEN LIABILITIES OUTWEIGH ASSETS",
+    "subtitle": "WM Motor | Book-value comparison cited in the script",
+    "unit": "RMB billion",
+    "axis": {"min": 0, "max": 25, "step": 5},
+    "series": [
+      {"name": "Liabilities", "value": 20.367, "role": "primary"},
+      {"name": "Assets", "value": 3.988, "role": "secondary"}
+    ],
+    "derived": {"liabilities_to_assets_display": "5.1x", "asset_coverage_display": "19.6%"},
+    "notes": ["Liabilities / assets: 5.1x | Asset coverage: 19.6%", "Book assets do not represent guaranteed recovery proceeds."],
+    "source_label": "USER-PROVIDED SCRIPT | NOT INDEPENDENTLY VERIFIED"
+  },
+  "deliveries": {
+    "title": "SCALE OF THE SURVIVORS",
+    "subtitle": "2025 full-year deliveries | Selected EV brands",
+    "unit": "Vehicles",
+    "axis": {"min": 0, "max": 700000, "step": 100000},
+    "series": [
+      {"name": "Leapmotor", "value": 596600, "role": "primary"},
+      {"name": "XPENG", "value": 429400, "role": "secondary"},
+      {"name": "Li Auto", "value": 406300, "role": "secondary"},
+      {"name": "NIO", "value": 326000, "role": "secondary"}
+    ],
+    "notes": ["Selected brands only; not a complete industry ranking.", "Xiaomi excluded: the script gives only a lower bound of over 400,000 vehicles."],
+    "source_label": "USER-PROVIDED SCRIPT | NOT INDEPENDENTLY VERIFIED"
+  },
+  "style": {"reference_primary_approx": "#23436D", "reference_secondary_approx": "#7C9EC7", "target_background": "#101214", "target_text": "#F1F3F5", "layout": "Confirmed horizontal bars, left-to-right growth", "opacity": 1, "blur": 0},
+  "animation": {"engine": "GSAP", "bpm": 122, "row_stagger_beats": 4, "numeric_countup": true, "preserve_qualifiers": true},
+  "line_chart": "No line-chart data supplied. Do not fabricate a time series."
+}
