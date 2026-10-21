@@ -37,9 +37,10 @@ English male narration, synchronized subtitles, layered vehicle parallax, animat
 
 A B2B financial explainer built with HyperFrames, following the approved video-shotcraft storyboard. English male narration, captions, original 122 BPM backing track, highlighted counters and two inline SVG vehicle outlines. No photographs or 3D assets.
 
+- [Download vertical MP4 with English narration](uniland-ev-finance-105s/renders/uniland-ev-finance-105s.mp4)
 - [Download offline HTML + source ZIP](uniland-ev-finance-105s-project.zip)
 - [Complete single-file HTML source](uniland-ev-finance-105s/index.html)
 - [Ten preview frames](uniland-ev-finance-105s/previews)
 - [Playback, editing, source attribution and checks](uniland-ev-finance-105s/README.md)
 
-Download and unzip, open index.html and click Play. No MP4 was rendered, as requested. The single-file offline player includes its audio/fonts; a standard-library conversion script prepares the same timeline for the HyperFrames CLI, which requires external media files. Reported financial figures are user-sourced; original pages remain unverified due to proxy restrictions.
+Download and unzip, open index.html and click Play. A narrated MP4 was subsequently exported at the user’s request. The single-file offline player includes its audio/fonts; a standard-library conversion script prepares the same timeline for the HyperFrames CLI, which requires external media files. Reported financial figures are user-sourced; original pages remain unverified due to proxy restrictions.

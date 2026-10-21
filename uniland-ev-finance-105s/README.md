@@ -6,7 +6,7 @@
 
 下载ZIP并解压，双击 `index.html`，点击 **Play**。配音、音乐、字体、GSAP均已内嵌；正常播放不需网络，不会自动播放或导出视频。可暂停、拖动进度、重播、静音，或关闭BGM保留英文口播。展开 Sources & production notes 查看来源链接。
 
-当前交付是可运行HTML动画源码，**没有MP4文件**。本环境Chromium的企业策略禁止file://，因此实际测试使用本地HTTP，确认无外部网络请求。HTML按普通浏览器离线使用设计；若你的浏览器限制本地页面，可在本目录运行 `python -m http.server 3035` 并访问 http://localhost:3035 。
+另已按用户后续要求导出 **MP4成片：renders/uniland-ev-finance-105s.mp4**，包含相同英文口播、字幕和配乐。HTML仍可独立预览。本环境Chromium的企业策略禁止file://，因此实际测试使用本地HTTP，确认无外部网络请求。HTML按普通浏览器离线使用设计；若你的浏览器限制本地页面，可在本目录运行 `python -m http.server 3035` 并访问 http://localhost:3035 。
 
 ## 内容与视觉
 
@@ -35,10 +35,10 @@ python scripts/prepare-hyperframes.py
 npx hyperframes@0.8.181 preview work/hyperframes-ready
 ```
 
-转换脚本只把相同音频和GSAP展开为相对路径文件，移除独立播放器，保留同一注册时间线；**不调用渲染**。转换版本lint零错误，12个结构建议来自按要求保留单HTML、未拆子合成；validate对比度检查通过，inspect关键时刻零布局问题。完整报告见review/。
+转换脚本只把相同音频和GSAP展开为相对路径文件，移除独立播放器，保留同一注册时间线；脚本本身不调用渲染。MP4使用该转换版本经HyperFrames CLI导出。转换版本lint零错误，12个结构建议来自按要求保留单HTML、未拆子合成；validate对比度检查通过，inspect关键时刻零布局问题。完整报告见review/。
 
 ## 验证范围
 
-离线依赖检查（本地HTTP）、浏览器执行、十镜截图、正反拖动确定性、手机控制布局、按键播放、BGM开关与音频数值检查。抽查播放时两音轨误差在约一帧内。没有进行MP4导出、MP4抽帧或渲染后同步验收；不宣称逐词字幕对齐、音色主观试听或原网页事实核验已通过。
+离线依赖检查（本地HTTP）、浏览器执行、十镜截图、正反拖动确定性、手机控制布局、按键播放、BGM开关与音频数值检查。抽查播放时两音轨误差在约一帧内。后续MP4交付的媒体元数据、关键帧及音画对齐检查另外记录在review/MP4-CHECK.json。不宣称逐词字幕对齐、音色主观试听或原网页事实核验已通过。
 
 video-shotcraft的Remotion、Gallery复现、戏剧性结尾和专用工作台默认流程，按本次单HTML、HyperFrames、简约文字和不渲染要求进行适配，未伪称实现那些默认功能。已做独立HTML/画面审查。

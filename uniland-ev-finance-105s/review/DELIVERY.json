@@ -1,5 +1,5 @@
 {
-  "format": "single self-contained HTML, ZIP; no MP4",
+  "format": "MP4 + existing single self-contained HTML",
   "width": 1080,
   "height": 1920,
   "fps": 30,
@@ -11,5 +11,13 @@
   "voice": "Kokoro am_michael synthetic English male",
   "bgm": "original deterministic 122BPM percussion and pad",
   "full_continuous_playback": "passed, max sampled music/voice clock difference21.4ms",
-  "video_rendered": false
+  "video_rendered": true,
+  "video_path": "renders/uniland-ev-finance-105s.mp4",
+  "video_bytes": 9465361,
+  "video_codec": "H264",
+  "audio_codec": "AAC",
+  "render_engine": "HyperFrames0.8.181 high",
+  "mp4_audio_alignment": "four voice and four voice-subtracted music windows:0ms offset",
+  "final_audio_gain_db": -3,
+  "full_decode_check": "passed"
 }
