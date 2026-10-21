@@ -32,3 +32,14 @@ English male narration, synchronized subtitles, layered vehicle parallax, animat
 - [Script, editing and validation notes](uniland-shotcraft-15s/README.md)
 
 10,000+ means cumulative deliveries. Backgrounds are AI reconstructions of the supplied keyframes; animation uses 2.5D layers rather than a vehicle 3D model.
+
+## Latest: China EV Market Brief · 104.27 seconds · vertical HTML
+
+A B2B financial explainer built with HyperFrames, following the approved video-shotcraft storyboard. English male narration, captions, original 122 BPM backing track, highlighted counters and two inline SVG vehicle outlines. No photographs or 3D assets.
+
+- [Download offline HTML + source ZIP](uniland-ev-finance-105s-project.zip)
+- [Complete single-file HTML source](uniland-ev-finance-105s/index.html)
+- [Ten preview frames](uniland-ev-finance-105s/previews)
+- [Playback, editing, source attribution and checks](uniland-ev-finance-105s/README.md)
+
+Download and unzip, open index.html and click Play. No MP4 was rendered, as requested. The single-file offline player includes its audio/fonts; a standard-library conversion script prepares the same timeline for the HyperFrames CLI, which requires external media files. Reported financial figures are user-sourced; original pages remain unverified due to proxy restrictions.

@@ -1,0 +1,93 @@
+{
+  "errors": [],
+  "samples": [
+    {
+      "voice": 9.936569,
+      "music": 9.957811,
+      "timeline": 9.933891,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 19.945025,
+      "music": 19.966331,
+      "timeline": 19.933557,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 29.953873,
+      "music": 29.975188,
+      "timeline": 29.949768,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 39.956224,
+      "music": 39.977548,
+      "timeline": 39.949513,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 49.961183,
+      "music": 49.982496,
+      "timeline": 49.948985,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 59.967521,
+      "music": 59.988831,
+      "timeline": 59.965478,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 69.973375,
+      "music": 69.994701,
+      "timeline": 69.964735,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 79.983986,
+      "music": 80.005368,
+      "timeline": 79.981198,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 89.988988,
+      "music": 90.010272,
+      "timeline": 89.980928,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 99.99364,
+      "music": 100.015012,
+      "timeline": 99.980394,
+      "voicePaused": false,
+      "musicPaused": false,
+      "playLabel": "Pause"
+    },
+    {
+      "voice": 104.247537,
+      "music": 104.266667,
+      "timeline": 104.2666667,
+      "voicePaused": true,
+      "musicPaused": true,
+      "playLabel": "Play"
+    }
+  ]
+}

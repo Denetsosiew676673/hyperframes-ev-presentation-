@@ -1,0 +1,323 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "contrast": [
+    {
+      "time": 10.427,
+      "selector": "div.kicker.reveal",
+      "text": "CAPITAL AT RISK",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 10.427,
+      "selector": "h1.reveal",
+      "text": "The costof the race.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 10.427,
+      "selector": "div.eyebrow",
+      "text": "BYTON · REPORTED FUNDING",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 10.427,
+      "selector": "span.count",
+      "text": "¥5.4bn",
+      "ratio": 10.91,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(169,201,232)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 10.427,
+      "selector": "div.label",
+      "text": "NO MASS PRODUCTION",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 10.427,
+      "selector": "div.source.reveal",
+      "text": "Reported · 21st Century / CNS · 2020",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 10.427,
+      "selector": "span",
+      "text": "eight point four billion yuan without",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 31.28,
+      "selector": "div.kicker.reveal",
+      "text": "HOW THE BOOM BEGAN",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 31.28,
+      "selector": "h1.reveal",
+      "text": "2014Investment boom.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 31.28,
+      "selector": "div.stack.reveal",
+      "text": "POLICY SUPPORTTESLA’S PATENT PLEDGE",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 31.28,
+      "selector": "div.label.reveal",
+      "text": "TECHNOLOGY · PROPERTYCONSUMER ELECTRONICS",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 31.28,
+      "selector": "div.source.reveal",
+      "text": "Historical context · schematic illustration",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "div.kicker.reveal",
+      "text": "THE EXECUTION GAP",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "h1.reveal",
+      "text": "Funding is notmanufacturing.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "div.step.reveal",
+      "text": "01 LAUNCH",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "span",
+      "text": "LAUNCH",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "div.step.reveal",
+      "text": "02 FUNDING",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "span",
+      "text": "FUNDING",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "div.step.reveal",
+      "text": "03 PRODUCTION DELAYS",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "span",
+      "text": "PRODUCTION DELAYS",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "div.source.reveal",
+      "text": "Industry analysis · applies to some startups",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 52.133,
+      "selector": "span",
+      "text": "production schedules slipped.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 72.987,
+      "selector": "div.kicker.reveal",
+      "text": "THE FIELD · 2025",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 72.987,
+      "selector": "h1.reveal",
+      "text": "Still competing.Different outcomes.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 72.987,
+      "selector": "div.reveal",
+      "text": "LEAPMOTOR",
+      "ratio": 10.91,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(169,201,232)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 72.987,
+      "selector": "div.source.reveal",
+      "text": "Selected brands · not an exhaustive market list",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 72.987,
+      "selector": "span",
+      "text": "By 2025, brands including Leapmotor, Xpeng,",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 93.84,
+      "selector": "div.kicker.reveal",
+      "text": "FOR BUYERS & INVESTORS",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 93.84,
+      "selector": "h1.reveal",
+      "text": "Three testsfor EV business.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 93.84,
+      "selector": "div.source.reveal",
+      "text": "Procurement focus · supplier continuity matters",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 93.84,
+      "selector": "span",
+      "text": "Three lessons: verify manufacturing capability, ex",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    }
+  ],
+  "contrastFailures": 0,
+  "_meta": {
+    "version": "0.8.181",
+    "updateAvailable": false,
+    "deprecated": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "format": "single self-contained HTML, ZIP; no MP4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "bpm": 122,
+  "duration_seconds": 104.2666666667,
+  "external_runtime_requests": 0,
+  "caption_alignment": "measured sentence windows; estimated phrase subdivisions, not forced word alignment",
+  "sources": "user supplied; original pages proxy blocked",
+  "voice": "Kokoro am_michael synthetic English male",
+  "bgm": "original deterministic 122BPM percussion and pad",
+  "full_continuous_playback": "passed, max sampled music/voice clock difference21.4ms",
+  "video_rendered": false
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "scene": 1,
+    "start": 0.0,
+    "end": 7.868852459016393,
+    "voice": "China’s EV boom became a race for survival. A 2018 report put the number of electric-vehicle manufacturers at nearly five hundred.",
+    "headline": "A race for survival.",
+    "source": "Reported figures · CAAM / WSJ, 2018"
+  },
+  {
+    "scene": 2,
+    "start": 7.868852459016393,
+    "end": 17.704918032786885,
+    "voice": "The cost was enormous. Byton reportedly raised eight point four billion yuan without reaching mass production. Saleen received six point six billion in state-backed investment, yet reportedly sold just thirty-one Maimai cars.",
+    "headline": "The cost of the race.",
+    "source": "Reported · 21st Century / CNS · 2020"
+  },
+  {
+    "scene": 3,
+    "start": 17.704918032786885,
+    "end": 31.475409836065573,
+    "voice": "Around 2014, policy support and Tesla’s patent pledge helped fuel optimism. Entrants from technology, property and consumer electronics saw an opportunity. But entering the market was easier than mastering automotive manufacturing.",
+    "headline": " 2014  Investment boom.",
+    "source": "Historical context · schematic illustration"
+  },
+  {
+    "scene": 4,
+    "start": 31.475409836065573,
+    "end": 45.24590163934426,
+    "voice": "Venture capital backed ambitious growth stories. Local governments offered land, facilities and industrial funding, seeking jobs, tax revenue and economic development. But financing a factory was only the beginning.",
+    "headline": "Two sources. One ambition.",
+    "source": "Industry context · support terms vary by project"
+  },
+  {
+    "scene": 5,
+    "start": 45.24590163934426,
+    "end": 59.01639344262295,
+    "voice": "For some startups, fundraising moved faster than manufacturing readiness. Launch events promised the future, while production schedules slipped. Suppliers, quality control and working capital proved harder to manage than a compelling presentation.",
+    "headline": "Funding is not manufacturing.",
+    "source": "Industry analysis · applies to some startups"
+  },
+  {
+    "scene": 6,
+    "start": 59.01639344262295,
+    "end": 70.81967213114754,
+    "voice": "From 2020, shutdowns and restructurings exposed the risks. A reported review of fifteen troubled EV companies put disclosed financing above one hundred billion yuan, alongside substantial idle production capacity.",
+    "headline": "Shutdowns. Restructurings.",
+    "source": "Reported figures · Securities Times / Yicai compilation"
+  },
+  {
+    "scene": 7,
+    "start": 70.81967213114754,
+    "end": 82.62295081967213,
+    "voice": "By 2025, brands including Leapmotor, Xpeng, Li Auto, Xiaomi and NIO remained prominent competitors. Their delivery scale and financial performance differed. Staying in the race did not mean achieving sustainable profitability.",
+    "headline": "Still competing. Different outcomes.",
+    "source": "Selected brands · not an exhaustive market list"
+  },
+  {
+    "scene": 8,
+    "start": 82.62295081967213,
+    "end": 92.45901639344262,
+    "voice": "Price competition put margins under pressure. For buyers and investors, the question was no longer simply who could deliver cars, but who could sustain the business behind them.",
+    "headline": "Price pressure. Margin pressure.",
+    "source": "Business analysis · profitability claim omitted"
+  },
+  {
+    "scene": 9,
+    "start": 92.45901639344262,
+    "end": 100.32786885245902,
+    "voice": "Three lessons: verify manufacturing capability, examine funding obligations, and assess margins alongside sales scale. For overseas buyers, supplier continuity matters.",
+    "headline": "Three tests for EV business.",
+    "source": "Procurement focus · supplier continuity matters"
+  },
+  {
+    "scene": 10,
+    "start": 100.32786885245902,
+    "end": 104.26229508196721,
+    "voice": "Follow UNILAND MOTORS for Chinese vehicle sourcing and market insights.",
+    "headline": "UNILAND MOTORS",
+    "source": "Vehicle sourcing & market insights"
+  }
+]
