@@ -1,0 +1,155 @@
+[
+  {
+    "scene": 2,
+    "ticks": [
+      {
+        "text": "0",
+        "offset": 0
+      },
+      {
+        "text": "5",
+        "offset": 0
+      },
+      {
+        "text": "10",
+        "offset": 0
+      },
+      {
+        "text": "15",
+        "offset": 0
+      },
+      {
+        "text": "20",
+        "offset": 0
+      },
+      {
+        "text": "25",
+        "offset": 0
+      },
+      {
+        "text": "30",
+        "offset": 0
+      },
+      {
+        "text": "35",
+        "offset": 0
+      },
+      {
+        "text": "40",
+        "offset": 0
+      }
+    ],
+    "noteBottom": 782.796875,
+    "sourceTop": 796.8125,
+    "values": [
+      "~35",
+      ">17",
+      "~10",
+      "~8.4"
+    ]
+  },
+  {
+    "scene": 8,
+    "ticks": [
+      {
+        "text": "0",
+        "offset": 0
+      },
+      {
+        "text": "5",
+        "offset": 0
+      },
+      {
+        "text": "10",
+        "offset": 0
+      },
+      {
+        "text": "15",
+        "offset": 0
+      },
+      {
+        "text": "20",
+        "offset": 0
+      },
+      {
+        "text": "25",
+        "offset": 0
+      }
+    ],
+    "noteBottom": 758.796875,
+    "sourceTop": 796.8125,
+    "values": [
+      "20.367",
+      "3.988"
+    ]
+  },
+  {
+    "scene": 9,
+    "ticks": [
+      {
+        "text": "0",
+        "offset": 0
+      },
+      {
+        "text": "100k",
+        "offset": 0
+      },
+      {
+        "text": "200k",
+        "offset": 0
+      },
+      {
+        "text": "300k",
+        "offset": 0
+      },
+      {
+        "text": "400k",
+        "offset": 0
+      },
+      {
+        "text": "500k",
+        "offset": 0
+      },
+      {
+        "text": "600k",
+        "offset": 0
+      },
+      {
+        "text": "700k",
+        "offset": 0
+      }
+    ],
+    "noteBottom": 782.796875,
+    "sourceTop": 796.8125,
+    "values": [
+      "596,600",
+      "429,400",
+      "406,300",
+      "326,000"
+    ]
+  },
+  {
+    "deterministic20": true
+  },
+  {
+    "time": 11,
+    "rows": [
+      {
+        "opacity": "0",
+        "text": "WM Motor~0"
+      },
+      {
+        "opacity": "0",
+        "text": "Singulato>0"
+      },
+      {
+        "opacity": "0",
+        "text": "Aiways~0"
+      },
+      {
+        "opacity": "0",
+        "text": "Byton~0.0"
+      }
+    ]
+  }
+]

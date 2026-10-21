@@ -44,3 +44,13 @@ A B2B financial explainer built with HyperFrames, following the approved video-s
 - [Playback, editing, source attribution and checks](uniland-ev-finance-105s/README.md)
 
 Download and unzip, open index.html and click Play. A narrated MP4 was subsequently exported at the user’s request. The single-file offline player includes its audio/fonts; a standard-library conversion script prepares the same timeline for the HyperFrames CLI, which requires external media files. Reported financial figures are user-sourced; original pages remain unverified due to proxy restrictions.
+
+## Latest: expanded landscape EV finance film · 149.53 seconds
+
+1920×1080 /16:9 /30fps. Slower English male narration, three reconstructed GSAP charts, animated data labels, moving blue panels and PPT-style page turns/pushes. Generic SVG vehicles are used while original vehicle uploads remain indistinct.
+
+- [Download landscape MP4](uniland-ev-finance-150s/renders/uniland-ev-finance-landscape-150s.mp4)
+- [Download voice-only MP4](uniland-ev-finance-150s/renders/uniland-ev-finance-landscape-150s-voice-only.mp4)
+- [Download editable HTML/source ZIP](uniland-ev-finance-landscape-project.zip)
+- [Landscape preview frames](uniland-ev-finance-150s/previews/landscape)
+- [Editing, sources and validation](uniland-ev-finance-150s/README.md)

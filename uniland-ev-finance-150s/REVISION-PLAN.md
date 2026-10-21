@@ -1,3 +1,7 @@
+# Superseded portrait planning notes
+
+Final user-approved revision is1920x1080 landscape, moving blocks andPPT transitions. See DESIGN.md andstoryboard.json for actual delivered schedule. Original planning below retained for traceability only.
+
 # Revision plan
 
 User requests expanded financial data visualization, supplied two dark vehicle illustrations and three chart references, slower English narration and up to150sec. Preserve existing delivered104sec project andMP4.

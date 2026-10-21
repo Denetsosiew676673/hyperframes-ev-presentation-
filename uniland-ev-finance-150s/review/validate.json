@@ -1,0 +1,653 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "contrast": [
+    {
+      "time": 14.953,
+      "selector": "div.kicker.reveal",
+      "text": "01 Â· CAPITAL COMMITMENTS",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "h1.reveal",
+      "text": "BIG FUNDING. UNCERTAIN OUTCOMES.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "div.subtitle.reveal",
+      "text": "Reported cumulative funding at selected EV startup",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "div.cat",
+      "text": "WM Motor",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span.count",
+      "text": "~35",
+      "ratio": 10.91,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(169,201,232)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "div.cat",
+      "text": "Singulato",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span.count",
+      "text": ">16",
+      "ratio": 10.91,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(169,201,232)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "0",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "5",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "10",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "15",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "20",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "25",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "30",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "35",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "40",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "div.unit.reveal",
+      "text": "RMB billion",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "div",
+      "text": "Approximate amounts; reporting dates and funding d",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "div",
+      "text": "Funding raised is not equivalent to cash spent or ",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "div.source.reveal",
+      "text": "Reported chart figures Â· Funding is not equivalen",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 14.953,
+      "selector": "span",
+      "text": "Reported funding ranged from around",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 44.86,
+      "selector": "div.kicker.reveal",
+      "text": "03 Â· THE INVESTMENT BOOM",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 44.86,
+      "selector": "h1.reveal",
+      "text": "2014. A new industry opens.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 44.86,
+      "selector": "div.subtitle.reveal",
+      "text": "Policy support and Teslaâ€™s patent pledge helped ",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 44.86,
+      "selector": "div.reveal.tag",
+      "text": "TECHNOLOGY",
+      "ratio": 11.25,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(32,53,77)"
+    },
+    {
+      "time": 44.86,
+      "selector": "div.reveal.tag",
+      "text": "PROPERTY",
+      "ratio": 11.25,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(32,53,77)"
+    },
+    {
+      "time": 44.86,
+      "selector": "div.source.reveal",
+      "text": "Historical context Â· Generic SVG vehicle, not an ",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 44.86,
+      "selector": "span",
+      "text": "patent pledge helped fuel optimism.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 74.767,
+      "selector": "div.kicker.reveal",
+      "text": "05 Â· THE EXECUTION GAP",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 74.767,
+      "selector": "h1.reveal",
+      "text": "Funding is not manufacturing.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 74.767,
+      "selector": "div.subtitle.reveal",
+      "text": "Operational capability must catch up with the stor",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 74.767,
+      "selector": "div.reveal.tile",
+      "text": "01LAUNCH",
+      "ratio": 11.25,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(32,53,77)"
+    },
+    {
+      "time": 74.767,
+      "selector": "small",
+      "text": "01",
+      "ratio": 6.29,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(32,53,77)"
+    },
+    {
+      "time": 74.767,
+      "selector": "div.source.reveal",
+      "text": "Business analysis Â· Applies to some startups, not",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 74.767,
+      "selector": "span",
+      "text": "than manufacturing readiness.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div.kicker.reveal",
+      "text": "07 Â· BALANCE-SHEET RISK",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "h1.reveal",
+      "text": "WHEN LIABILITIES OUTWEIGH ASSETS",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div.subtitle.reveal",
+      "text": "WM Motor | Book-value comparison cited in the scri",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div.cat",
+      "text": "Liabilities",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span.count",
+      "text": "20.367",
+      "ratio": 10.91,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(169,201,232)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div.cat",
+      "text": "Assets",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span.count",
+      "text": "3.988",
+      "ratio": 10.91,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(169,201,232)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span",
+      "text": "0",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span",
+      "text": "5",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span",
+      "text": "10",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span",
+      "text": "15",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span",
+      "text": "20",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span",
+      "text": "25",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div.unit.reveal",
+      "text": "RMB billion",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div",
+      "text": "Liabilities / assets: 5.1x | Asset coverage: 19.6%",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div",
+      "text": "Book assets do not represent guaranteed recovery p",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "div.source.reveal",
+      "text": "Reported user-provided comparison Â· RMB billions,",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 104.673,
+      "selector": "span",
+      "text": "Asset coverage was under twenty percent.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.kicker.reveal",
+      "text": "09 Â· THE NEXT TEST",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "h1.reveal",
+      "text": "Price pressure. Margin pressure.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.subtitle.reveal",
+      "text": "Who can sustain the business behind each vehicle?",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.reveal.margin-box",
+      "text": "DELIVERYVOLUME",
+      "ratio": 11.25,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(32,53,77)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.reveal.margin-box",
+      "text": "SUSTAINABLEBUSINESS",
+      "ratio": 9.01,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(35,67,109)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.source.reveal",
+      "text": "Business analysis Â· Delivery volume alone does no",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.kicker.reveal",
+      "text": "10 Â· FOR BUYERS & INVESTORS",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "h1.reveal",
+      "text": "Three tests for EV business.",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.subtitle.reveal",
+      "text": "Supplier continuity matters",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "div.source.reveal",
+      "text": "Procurement perspective Â· Verify both operational",
+      "ratio": 9.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(173,185,200)",
+      "bg": "rgb(16,18,20)"
+    },
+    {
+      "time": 134.58,
+      "selector": "span",
+      "text": "Three lessons: verify manufacturing capability, ex",
+      "ratio": 16.88,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(241,243,245)",
+      "bg": "rgb(16,18,20)"
+    }
+  ],
+  "contrastFailures": 0,
+  "_meta": {
+    "version": "0.8.181",
+    "updateAvailable": false,
+    "deprecated": true
+  }
+}

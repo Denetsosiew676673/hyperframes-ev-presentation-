@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "duration": 149.53333333333333,
+  "samples": [
+    8,
+    23,
+    36,
+    51,
+    67,
+    81,
+    94,
+    107,
+    123,
+    132,
+    142,
+    148
+  ],
+  "tolerance": 2,
+  "strict": false,
+  "collapseStatic": true,
+  "ok": true,
+  "errorCount": 0,
+  "warningCount": 0,
+  "infoCount": 0,
+  "issueCount": 0,
+  "totalIssueCount": 0,
+  "truncated": false,
+  "issues": [],
+  "_meta": {
+    "version": "0.8.181",
+    "updateAvailable": false,
+    "deprecated": true
+  }
+}

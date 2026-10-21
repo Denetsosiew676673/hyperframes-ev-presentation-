@@ -1,0 +1,30 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 4486,
+  "duration_seconds": 149.533333,
+  "bpm": 122,
+  "word_count": 287,
+  "average_wpm": 115.2,
+  "codec": "H264/AAC",
+  "primary_bytes": 16866652,
+  "charts": [
+    "funding",
+    "balance_sheet",
+    "deliveries"
+  ],
+  "transitions": [
+    "page-plane turn",
+    "horizontal push",
+    "fade/lift"
+  ],
+  "moving_blocks": true,
+  "source_images_used": false,
+  "vehicle_asset_note": "Existing generic SVG, not reconstruction of unreadable uploaded vehicles",
+  "audio_alignment": "four voice and four voice-subtracted music windows: zero measured lag",
+  "peak": 0.7836257,
+  "full_decode": "passed",
+  "caption_alignment": "estimated phrase subdivisions in measured sentence windows",
+  "sources": "User-supplied, not independently verified"
+}
