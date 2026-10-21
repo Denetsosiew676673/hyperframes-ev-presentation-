@@ -1,0 +1,583 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "contrast": [
+    {
+      "time": 9,
+      "selector": "span",
+      "text": "UNILAND MOTORS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 9,
+      "selector": "span",
+      "text": "AVATR 11 Â· OVERSEAS BUSINESS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 9,
+      "selector": "div.kicker.reveal",
+      "text": "DESIGN Â· RECOGNISABLE FROM EVERY ANGLE",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 9,
+      "selector": "h1.reveal",
+      "text": "A flowing profile.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 9,
+      "selector": "div.tag.reveal",
+      "text": "COUPE-INSPIRED ROOFLINE",
+      "ratio": 10.1,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(229,232,233)"
+    },
+    {
+      "time": 9,
+      "selector": "div.tag.reveal",
+      "text": "TWO POWERTRAIN ROUTES",
+      "ratio": 10.1,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(229,232,233)"
+    },
+    {
+      "time": 9,
+      "selector": "div.callout.reveal",
+      "text": "COUPE-INSPIRED ROOFLINE",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 9,
+      "selector": "div.photo-note.reveal",
+      "text": "Exterior design shown. Equipment varies by configu",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 9,
+      "selector": "span",
+      "text": "Choose battery-electric or range-extended power.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 27,
+      "selector": "span",
+      "text": "UNILAND MOTORS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 27,
+      "selector": "span",
+      "text": "AVATR 11 Â· OVERSEAS BUSINESS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 27,
+      "selector": "div.kicker.reveal",
+      "text": "BATTERY ELECTRIC Â· CHARGING",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 27,
+      "selector": "h1.reveal",
+      "text": "Charge with confidence.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 27,
+      "selector": "div.label",
+      "text": "PLATFORM",
+      "ratio": 6.36,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "span.count",
+      "text": "800",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "span.unit",
+      "text": "V",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "div.label",
+      "text": "PEAK DC CHARGE",
+      "ratio": 6.36,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "span.count",
+      "text": "240",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "span.unit",
+      "text": "kW",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "div.label",
+      "text": "30â€“80% SOC",
+      "ratio": 6.36,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "span.count",
+      "text": "â‰ˆ23",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "span.unit",
+      "text": "min",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 27,
+      "selector": "div.callout.reveal",
+      "text": "BEV Â· CHARGING PERFORMANCE",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 27,
+      "selector": "div.photo-note.reveal",
+      "text": "Charging time and peak power depend on charger, te",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 27,
+      "selector": "span",
+      "text": "Performance varies by version and conditions.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 45,
+      "selector": "span",
+      "text": "UNILAND MOTORS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 45,
+      "selector": "span",
+      "text": "AVATR 11 Â· OVERSEAS BUSINESS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 45,
+      "selector": "div.kicker.reveal",
+      "text": "RANGE EXTENDED Â· COMBINED RANGE",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 45,
+      "selector": "h1.reveal",
+      "text": "Longer journeys.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 45,
+      "selector": "div.label",
+      "text": "COMBINED Â· CLTC",
+      "ratio": 6.36,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 45,
+      "selector": "span.count",
+      "text": "1,065",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 45,
+      "selector": "span.unit",
+      "text": "km",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 45,
+      "selector": "div.label",
+      "text": "30â€“80% SOC",
+      "ratio": 6.36,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 45,
+      "selector": "span.count",
+      "text": "â‰ˆ15",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 45,
+      "selector": "span.unit",
+      "text": "min",
+      "ratio": 12.43,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(255,255,255)"
+    },
+    {
+      "time": 45,
+      "selector": "div.callout.reveal",
+      "text": "REEV Â· COMBINED CAPABILITY",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 45,
+      "selector": "div.photo-note.reveal",
+      "text": "Combined range uses fuel and electricity. Charging",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 45,
+      "selector": "span",
+      "text": "buyers planning longer journeys.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 63,
+      "selector": "span",
+      "text": "UNILAND MOTORS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 63,
+      "selector": "span",
+      "text": "AVATR 11 Â· OVERSEAS BUSINESS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 63,
+      "selector": "div.kicker.reveal",
+      "text": "COMFORT Â· SELECTED CONFIGURATIONS",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 63,
+      "selector": "h1.reveal",
+      "text": "Comfort, considered.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 63,
+      "selector": "div.tag.reveal",
+      "text": "VENTILATION",
+      "ratio": 10.1,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(229,232,233)"
+    },
+    {
+      "time": 63,
+      "selector": "div.tag.reveal",
+      "text": "HEATING",
+      "ratio": 10.1,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(229,232,233)"
+    },
+    {
+      "time": 63,
+      "selector": "div.tag.reveal",
+      "text": "MASSAGE",
+      "ratio": 10.1,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(229,232,233)"
+    },
+    {
+      "time": 63,
+      "selector": "div.callout.reveal",
+      "text": "SELECTED FRONT-SEAT FEATURES",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 63,
+      "selector": "div.photo-note.reveal",
+      "text": "Selected-trim features. Request a configuration-sp",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 63,
+      "selector": "span",
+      "text": "premium audio depending on configuration.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 81,
+      "selector": "span",
+      "text": "UNILAND MOTORS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 81,
+      "selector": "span",
+      "text": "AVATR 11 Â· OVERSEAS BUSINESS",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 81,
+      "selector": "div.kicker.reveal",
+      "text": "FOR IMPORTERS Â· DEALERS Â· FLEETS",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 81,
+      "selector": "h1.reveal",
+      "text": "Your next AVATR opportunity.",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 81,
+      "selector": "div.tag.reveal",
+      "text": "FACTORY-NEW AVATR 11",
+      "ratio": 10.1,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(229,232,233)"
+    },
+    {
+      "time": 81,
+      "selector": "div.tag.reveal",
+      "text": "WHOLESALE QUOTATION",
+      "ratio": 10.1,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(229,232,233)"
+    },
+    {
+      "time": 81,
+      "selector": "div.callout.reveal",
+      "text": "UNILAND MOTORS",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 81,
+      "selector": "div.photo-note.reveal",
+      "text": "Confirm specification, export eligibility and dest",
+      "ratio": 5.68,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(70,98,125)",
+      "bg": "rgb(243,242,239)"
+    },
+    {
+      "time": 81,
+      "selector": "span",
+      "text": "Importers, dealers, fleet buyers and distributors:",
+      "ratio": 11.11,
+      "wcagAA": true,
+      "large": true,
+      "fg": "rgb(23,54,83)",
+      "bg": "rgb(243,242,239)"
+    }
+  ],
+  "contrastFailures": 0,
+  "_meta": {
+    "version": "0.8.181",
+    "updateAvailable": false,
+    "deprecated": true
+  }
+}

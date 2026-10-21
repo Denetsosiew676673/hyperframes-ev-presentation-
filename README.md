@@ -54,3 +54,13 @@ Download and unzip, open index.html and click Play. A narrated MP4 was subsequen
 - [Download editable HTML/source ZIP](uniland-ev-finance-landscape-project.zip)
 - [Landscape preview frames](uniland-ev-finance-150s/previews/landscape)
 - [Editing, sources and validation](uniland-ev-finance-150s/README.md)
+
+## Latest: AVATR11 overseas B2B product film · 90 seconds
+
+1920×1080 /16:9 /30fps /120BPM. Calm English male narration, matching English captions, fixed original AVATR photos, GSAP parameter count-ups and thin SVG nose/roofline/cockpit annotations.
+
+- [Download AVATR11 MP4](avatr11-b2b-90s/renders/avatr11-uniland-b2b-90s.mp4)
+- [Preview frames](avatr11-b2b-90s/previews)
+- [Source and verification notes](avatr11-b2b-90s/README.md)
+
+Source photographs are unchanged byte-for-byte. User-provided2025 parameters include charging SOC conditions and trim/market qualifiers; official-page access was proxy-blocked, so independent original-source verification is not claimed.

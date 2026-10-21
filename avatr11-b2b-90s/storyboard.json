@@ -1,0 +1,179 @@
+{
+  "pages": [
+    {
+      "a": 0,
+      "b": 6,
+      "k": "2025 \u00b7 NEW LUXURY SUV",
+      "h": "AVATR 11.",
+      "body": "<div class=\"tag reveal\" data-beat=\"0\">LUXURY COUPE SUV</div><div class=\"tag reveal\" data-beat=\"4\">BATTERY ELECTRIC</div><div class=\"tag reveal\" data-beat=\"8\">RANGE EXTENDED</div>",
+      "photo": "42.jpg",
+      "ann": "front",
+      "call": "DISC-WING FRONT",
+      "note": "Vehicle imagery is illustrative. Confirm the supplied model and trim."
+    },
+    {
+      "a": 6,
+      "b": 12,
+      "k": "DESIGN \u00b7 RECOGNISABLE FROM EVERY ANGLE",
+      "h": "A flowing profile.",
+      "body": "<div class=\"tag reveal\" data-beat=\"0\">COUPE-INSPIRED ROOFLINE</div><div class=\"tag reveal\" data-beat=\"4\">TWO POWERTRAIN ROUTES</div>",
+      "photo": "30.jpg",
+      "ann": "roof",
+      "call": "COUPE-INSPIRED ROOFLINE",
+      "note": "Exterior design shown. Equipment varies by configuration."
+    },
+    {
+      "a": 12,
+      "b": 22,
+      "k": "BATTERY ELECTRIC \u00b7 RANGE",
+      "h": "Go further.",
+      "body": "<div class=\"metrics\"><div class=\"card reveal \" data-beat=\"0\"><div class=\"label\">BATTERY</div><div class=\"value\"><span class=\"count\" data-v=\"116.79\" data-dec=\"2\" data-pre=\"\">116.79</span><span class=\"unit\">kWh</span></div></div><div class=\"card reveal \" data-beat=\"4\"><div class=\"label\">MAX RWD \u00b7 CLTC</div><div class=\"value\"><span class=\"count\" data-v=\"815\" data-dec=\"0\" data-pre=\"\">815</span><span class=\"unit\">km</span></div></div><div class=\"card reveal \" data-beat=\"8\"><div class=\"label\">AWD \u00b7 CLTC</div><div class=\"value\"><span class=\"count\" data-v=\"760\" data-dec=\"0\" data-pre=\"\">760</span><span class=\"unit\">km</span></div></div><div class=\"card reveal consumption\" data-beat=\"12\"><div class=\"label\">kWh / 100 km</div><div class=\"value\"><span class=\"count\" data-v=\"15.8\" data-dec=\"1\" data-pre=\"\">15.8</span><span class=\"unit\"></span><span class=\"dash\">\u2013</span><span class=\"count\" data-v=\"16.7\" data-dec=\"1\" data-pre=\"\">16.7</span><span class=\"unit\"></span></div></div></div>",
+      "photo": "24.png",
+      "ann": "",
+      "call": "BEV \u00b7 CAPACITY & CERTIFIED RANGE",
+      "note": "CLTC test-cycle range. Real-world results vary by driving and operating conditions."
+    },
+    {
+      "a": 22,
+      "b": 32,
+      "k": "BATTERY ELECTRIC \u00b7 CHARGING",
+      "h": "Charge with confidence.",
+      "body": "<div class=\"metrics\"><div class=\"card reveal \" data-beat=\"0\"><div class=\"label\">PLATFORM</div><div class=\"value\"><span class=\"count\" data-v=\"800\" data-dec=\"0\" data-pre=\"\">800</span><span class=\"unit\">V</span></div></div><div class=\"card reveal \" data-beat=\"4\"><div class=\"label\">PEAK DC CHARGE</div><div class=\"value\"><span class=\"count\" data-v=\"240\" data-dec=\"0\" data-pre=\"\">240</span><span class=\"unit\">kW</span></div></div><div class=\"card reveal wide\" data-beat=\"8\"><div class=\"label\">30\u201380% SOC</div><div class=\"value\"><span class=\"count\" data-v=\"25\" data-dec=\"0\" data-pre=\"\u2248\">\u224825</span><span class=\"unit\">min</span></div></div></div>",
+      "photo": "24.png",
+      "ann": "",
+      "call": "BEV \u00b7 CHARGING PERFORMANCE",
+      "note": "Charging time and peak power depend on charger, temperature and battery conditions."
+    },
+    {
+      "a": 32,
+      "b": 40,
+      "k": "RANGE EXTENDED \u00b7 ELECTRIC DRIVING",
+      "h": "An alternative route.",
+      "body": "<div class=\"metrics\"><div class=\"card reveal \" data-beat=\"0\"><div class=\"label\">BATTERY</div><div class=\"value\"><span class=\"count\" data-v=\"39.05\" data-dec=\"2\" data-pre=\"\">39.05</span><span class=\"unit\">kWh</span></div></div><div class=\"card reveal \" data-beat=\"4\"><div class=\"label\">ELECTRIC \u00b7 CLTC</div><div class=\"value\"><span class=\"count\" data-v=\"225\" data-dec=\"0\" data-pre=\"\">225</span><span class=\"unit\">km</span></div></div><div class=\"card reveal wide\" data-beat=\"8\"><div class=\"label\">ELECTRIC \u00b7 WLTC</div><div class=\"value\"><span class=\"count\" data-v=\"180\" data-dec=\"0\" data-pre=\"\">180</span><span class=\"unit\">km</span></div></div></div>",
+      "photo": "40.jpg",
+      "ann": "",
+      "call": "REEV \u00b7 ELECTRIC RANGE",
+      "note": "CLTC and WLTC are different test procedures. Confirm the specific REEV trim."
+    },
+    {
+      "a": 40,
+      "b": 48,
+      "k": "RANGE EXTENDED \u00b7 COMBINED RANGE",
+      "h": "Longer journeys.",
+      "body": "<div class=\"metrics\"><div class=\"card reveal wide\" data-beat=\"0\"><div class=\"label\">COMBINED \u00b7 CLTC</div><div class=\"value\"><span class=\"count\" data-v=\"1065\" data-dec=\"0\" data-pre=\"\">1065</span><span class=\"unit\">km</span></div></div><div class=\"card reveal wide\" data-beat=\"4\"><div class=\"label\">30\u201380% SOC</div><div class=\"value\"><span class=\"count\" data-v=\"15\" data-dec=\"0\" data-pre=\"\u2248\">\u224815</span><span class=\"unit\">min</span></div></div></div>",
+      "photo": "32.jpg",
+      "ann": "",
+      "call": "REEV \u00b7 COMBINED CAPABILITY",
+      "note": "Combined range uses fuel and electricity. Charging performance varies with conditions."
+    },
+    {
+      "a": 48,
+      "b": 54,
+      "k": "PROPORTIONS \u00b7 SPACE",
+      "h": "Built around five.",
+      "body": "<div class=\"dimensions\"><div class=\"card reveal \" data-beat=\"0\"><div class=\"label\">LENGTH</div><div class=\"value\"><span class=\"count\" data-v=\"4895\" data-dec=\"0\" data-pre=\"\">4895</span><span class=\"unit\">mm</span></div></div><div class=\"card reveal \" data-beat=\"0\"><div class=\"label\">WIDTH</div><div class=\"value\"><span class=\"count\" data-v=\"1970\" data-dec=\"0\" data-pre=\"\">1970</span><span class=\"unit\">mm</span></div></div><div class=\"card reveal \" data-beat=\"0\"><div class=\"label\">HEIGHT</div><div class=\"value\"><span class=\"count\" data-v=\"1601\" data-dec=\"0\" data-pre=\"\">1601</span><span class=\"unit\">mm</span></div></div></div><div class=\"metrics\"><div class=\"card reveal \" data-beat=\"4\"><div class=\"label\">WHEELBASE</div><div class=\"value\"><span class=\"count\" data-v=\"2975\" data-dec=\"0\" data-pre=\"\">2975</span><span class=\"unit\">mm</span></div></div><div class=\"card reveal \" data-beat=\"4\"><div class=\"label\">SEATING</div><div class=\"value\"><span class=\"count\" data-v=\"5\" data-dec=\"0\" data-pre=\"\">5</span><span class=\"unit\">seats</span></div></div></div>",
+      "photo": "30.jpg",
+      "ann": "",
+      "call": "4 DOORS \u00b7 5 SEATS",
+      "note": "Exterior dimensions in millimetres. Five-seat configuration shown."
+    },
+    {
+      "a": 54,
+      "b": 60,
+      "k": "DIGITAL CABIN \u00b7 DRIVER FOCUS",
+      "h": "A connected cabin.",
+      "body": "<div class=\"tag reveal\" data-beat=\"0\">DIGITAL COCKPIT</div><div class=\"tag reveal\" data-beat=\"4\">SELECTED TRIMS: ZERO-GRAVITY FRONT SEATS</div><div class=\"tag reveal\" data-beat=\"8\">PREMIUM AUDIO OPTIONS</div>",
+      "photo": "04.jpg",
+      "ann": "cockpit",
+      "call": "DIGITAL COCKPIT",
+      "note": "Equipment shown and available features vary by model, trim and destination market."
+    },
+    {
+      "a": 60,
+      "b": 64,
+      "k": "COMFORT \u00b7 SELECTED CONFIGURATIONS",
+      "h": "Comfort, considered.",
+      "body": "<div class=\"tag reveal\" data-beat=\"0\">VENTILATION</div><div class=\"tag reveal\" data-beat=\"0\">HEATING</div><div class=\"tag reveal\" data-beat=\"4\">MASSAGE</div>",
+      "photo": "14.jpg",
+      "ann": "",
+      "call": "SELECTED FRONT-SEAT FEATURES",
+      "note": "Selected-trim features. Request a configuration-specific quotation for availability."
+    },
+    {
+      "a": 64,
+      "b": 70,
+      "k": "INTELLIGENCE \u00b7 MARKET DEPENDENT",
+      "h": "Technology that assists.",
+      "body": "<div class=\"tag reveal\" data-beat=\"0\">HUAWEI COCKPIT</div><div class=\"tag reveal\" data-beat=\"4\">DRIVER ASSISTANCE</div><div class=\"tag reveal\" data-beat=\"8\">PARKING ASSISTANCE</div>",
+      "photo": "18.jpg",
+      "ann": "",
+      "call": "COCKPIT & PARKING VIEW",
+      "note": "Driver assistance is not autonomous driving. Features vary by trim and destination."
+    },
+    {
+      "a": 70,
+      "b": 78,
+      "k": "OVERSEAS BUSINESS \u00b7 UNILAND",
+      "h": "Support beyond sourcing.",
+      "body": "<div class=\"card reveal sales\" data-beat=\"0\"><div class=\"label\">AVATR BRAND \u00b7 2025 SALES</div><div class=\"value\"><span class=\"count\" data-v=\"120000\" data-dec=\"0\" data-pre=\">\">>120000</span><span class=\"unit\">vehicles</span></div></div><div class=\"tag reveal\" data-beat=\"4\">CONFIGURATION & EXPORT DOCUMENTS</div><div class=\"tag reveal\" data-beat=\"8\">SHIPPING SUPPORT</div>",
+      "photo": "34.jpg",
+      "ann": "",
+      "call": "UNILAND \u00b7 EXPORT SUPPORT",
+      "note": "AVATR brand sales, all models \u00b7 Calendar year 2025. Not AVATR 11 sales alone."
+    },
+    {
+      "a": 78,
+      "b": 86,
+      "k": "FOR IMPORTERS \u00b7 DEALERS \u00b7 FLEETS",
+      "h": "Your next AVATR opportunity.",
+      "body": "<div class=\"tag reveal\" data-beat=\"0\">FACTORY-NEW AVATR 11</div><div class=\"tag reveal\" data-beat=\"4\">WHOLESALE QUOTATION</div><div class=\"tag reveal\" data-beat=\"8\">CONFIGURATION MATCHED TO YOUR MARKET</div>",
+      "photo": "42.jpg",
+      "ann": "",
+      "call": "UNILAND MOTORS",
+      "note": "Confirm specification, export eligibility and destination requirements before ordering."
+    },
+    {
+      "a": 86,
+      "b": 90,
+      "k": "UNILAND MOTORS \u00b7 GLOBAL VEHICLE SOURCING",
+      "h": "Let\u2019s talk business.",
+      "body": "<div class=\"tag reveal\" data-beat=\"0\">AVATR 11 WHOLESALE & EXPORT</div><div class=\"tag reveal\" data-beat=\"0\">www.uniland-motors.com</div>",
+      "photo": "36.jpg",
+      "ann": "",
+      "call": "CONTACT UNILAND MOTORS",
+      "note": "References: avatr.com \u00b7 Product, configuration and news pages"
+    }
+  ],
+  "narration": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Meet the 2025 AVATR 11, a luxury coupe SUV with a distinctive disc-wing front and flowing roofline. Choose battery-electric or range-extended power."
+    },
+    {
+      "start": 12.0,
+      "end": 32.0,
+      "text": "Battery-electric versions offer up to 815 kilometres of CLTC range, an 800-volt architecture, and up to 240 kilowatts of DC charging. Performance varies by version and conditions."
+    },
+    {
+      "start": 32.0,
+      "end": 48.0,
+      "text": "The range-extended version offers 225 kilometres of electric CLTC range, and up to 1,065 kilometres combined\u2014another option for buyers planning longer journeys."
+    },
+    {
+      "start": 48.0,
+      "end": 64.0,
+      "text": "A five-seat digital cabin combines technology and comfort. Selected versions offer seat heating, ventilation and massage, with zero-gravity seating and premium audio depending on configuration."
+    },
+    {
+      "start": 64.0,
+      "end": 78.0,
+      "text": "Huawei cockpit technology and driver assistance are available on selected versions. Availability depends on trim and destination market. UNILAND supports configuration checks, export documentation and shipping."
+    },
+    {
+      "start": 78.0,
+      "end": 90.0,
+      "text": "Importers, dealers, fleet buyers and distributors: contact UNILAND MOTORS for factory-new AVATR 11 wholesale pricing and a configuration matched to your market."
+    }
+  ]
+}

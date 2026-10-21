@@ -1,0 +1,741 @@
+[
+  {
+    "time": 12,
+    "counts": [
+      {
+        "text": "0.00",
+        "opacity": "0"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "time": 13,
+    "counts": [
+      {
+        "text": "106.54",
+        "opacity": "1"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "time": 14,
+    "counts": [
+      {
+        "text": "116.79",
+        "opacity": "1"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "time": 53.7,
+    "counts": [
+      {
+        "text": "4,895",
+        "opacity": "1"
+      },
+      {
+        "text": "1,970",
+        "opacity": "1"
+      },
+      {
+        "text": "1,601",
+        "opacity": "1"
+      },
+      {
+        "text": "2,975",
+        "opacity": "1"
+      },
+      {
+        "text": "5",
+        "opacity": "1"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "time": 53.8,
+    "counts": [
+      {
+        "text": "4,895",
+        "opacity": "1"
+      },
+      {
+        "text": "1,970",
+        "opacity": "1"
+      },
+      {
+        "text": "1,601",
+        "opacity": "1"
+      },
+      {
+        "text": "2,975",
+        "opacity": "1"
+      },
+      {
+        "text": "5",
+        "opacity": "1"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "time": 16,
+    "counts": [
+      {
+        "text": "116.79",
+        "opacity": "1"
+      },
+      {
+        "text": "815",
+        "opacity": "1"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "time": 62,
+    "counts": [
+      {
+        "text": "4,895",
+        "opacity": "1"
+      },
+      {
+        "text": "1,970",
+        "opacity": "1"
+      },
+      {
+        "text": "1,601",
+        "opacity": "1"
+      },
+      {
+        "text": "2,975",
+        "opacity": "1"
+      },
+      {
+        "text": "5",
+        "opacity": "1"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "time": 16,
+    "counts": [
+      {
+        "text": "116.79",
+        "opacity": "1"
+      },
+      {
+        "text": "815",
+        "opacity": "1"
+      },
+      {
+        "text": "0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      },
+      {
+        "text": "0.0",
+        "opacity": "0"
+      }
+    ],
+    "photo": [
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      },
+      {
+        "transform": "none",
+        "filter": "none",
+        "fit": "contain"
+      }
+    ]
+  },
+  {
+    "deterministic": true
+  }
+]

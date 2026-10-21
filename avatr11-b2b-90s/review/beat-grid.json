@@ -1,0 +1,1089 @@
+{
+  "bpm": 120,
+  "phase": 0,
+  "T": 0.5,
+  "duration": 90.0,
+  "provenance": "original synthesized PCM, deterministic seed 120",
+  "anchors": [
+    {
+      "beat": 0,
+      "time": 0.0,
+      "frame": 0,
+      "downbeat": true
+    },
+    {
+      "beat": 1,
+      "time": 0.5,
+      "frame": 15,
+      "downbeat": false
+    },
+    {
+      "beat": 2,
+      "time": 1.0,
+      "frame": 30,
+      "downbeat": false
+    },
+    {
+      "beat": 3,
+      "time": 1.5,
+      "frame": 45,
+      "downbeat": false
+    },
+    {
+      "beat": 4,
+      "time": 2.0,
+      "frame": 60,
+      "downbeat": true
+    },
+    {
+      "beat": 5,
+      "time": 2.5,
+      "frame": 75,
+      "downbeat": false
+    },
+    {
+      "beat": 6,
+      "time": 3.0,
+      "frame": 90,
+      "downbeat": false
+    },
+    {
+      "beat": 7,
+      "time": 3.5,
+      "frame": 105,
+      "downbeat": false
+    },
+    {
+      "beat": 8,
+      "time": 4.0,
+      "frame": 120,
+      "downbeat": true
+    },
+    {
+      "beat": 9,
+      "time": 4.5,
+      "frame": 135,
+      "downbeat": false
+    },
+    {
+      "beat": 10,
+      "time": 5.0,
+      "frame": 150,
+      "downbeat": false
+    },
+    {
+      "beat": 11,
+      "time": 5.5,
+      "frame": 165,
+      "downbeat": false
+    },
+    {
+      "beat": 12,
+      "time": 6.0,
+      "frame": 180,
+      "downbeat": true
+    },
+    {
+      "beat": 13,
+      "time": 6.5,
+      "frame": 195,
+      "downbeat": false
+    },
+    {
+      "beat": 14,
+      "time": 7.0,
+      "frame": 210,
+      "downbeat": false
+    },
+    {
+      "beat": 15,
+      "time": 7.5,
+      "frame": 225,
+      "downbeat": false
+    },
+    {
+      "beat": 16,
+      "time": 8.0,
+      "frame": 240,
+      "downbeat": true
+    },
+    {
+      "beat": 17,
+      "time": 8.5,
+      "frame": 255,
+      "downbeat": false
+    },
+    {
+      "beat": 18,
+      "time": 9.0,
+      "frame": 270,
+      "downbeat": false
+    },
+    {
+      "beat": 19,
+      "time": 9.5,
+      "frame": 285,
+      "downbeat": false
+    },
+    {
+      "beat": 20,
+      "time": 10.0,
+      "frame": 300,
+      "downbeat": true
+    },
+    {
+      "beat": 21,
+      "time": 10.5,
+      "frame": 315,
+      "downbeat": false
+    },
+    {
+      "beat": 22,
+      "time": 11.0,
+      "frame": 330,
+      "downbeat": false
+    },
+    {
+      "beat": 23,
+      "time": 11.5,
+      "frame": 345,
+      "downbeat": false
+    },
+    {
+      "beat": 24,
+      "time": 12.0,
+      "frame": 360,
+      "downbeat": true
+    },
+    {
+      "beat": 25,
+      "time": 12.5,
+      "frame": 375,
+      "downbeat": false
+    },
+    {
+      "beat": 26,
+      "time": 13.0,
+      "frame": 390,
+      "downbeat": false
+    },
+    {
+      "beat": 27,
+      "time": 13.5,
+      "frame": 405,
+      "downbeat": false
+    },
+    {
+      "beat": 28,
+      "time": 14.0,
+      "frame": 420,
+      "downbeat": true
+    },
+    {
+      "beat": 29,
+      "time": 14.5,
+      "frame": 435,
+      "downbeat": false
+    },
+    {
+      "beat": 30,
+      "time": 15.0,
+      "frame": 450,
+      "downbeat": false
+    },
+    {
+      "beat": 31,
+      "time": 15.5,
+      "frame": 465,
+      "downbeat": false
+    },
+    {
+      "beat": 32,
+      "time": 16.0,
+      "frame": 480,
+      "downbeat": true
+    },
+    {
+      "beat": 33,
+      "time": 16.5,
+      "frame": 495,
+      "downbeat": false
+    },
+    {
+      "beat": 34,
+      "time": 17.0,
+      "frame": 510,
+      "downbeat": false
+    },
+    {
+      "beat": 35,
+      "time": 17.5,
+      "frame": 525,
+      "downbeat": false
+    },
+    {
+      "beat": 36,
+      "time": 18.0,
+      "frame": 540,
+      "downbeat": true
+    },
+    {
+      "beat": 37,
+      "time": 18.5,
+      "frame": 555,
+      "downbeat": false
+    },
+    {
+      "beat": 38,
+      "time": 19.0,
+      "frame": 570,
+      "downbeat": false
+    },
+    {
+      "beat": 39,
+      "time": 19.5,
+      "frame": 585,
+      "downbeat": false
+    },
+    {
+      "beat": 40,
+      "time": 20.0,
+      "frame": 600,
+      "downbeat": true
+    },
+    {
+      "beat": 41,
+      "time": 20.5,
+      "frame": 615,
+      "downbeat": false
+    },
+    {
+      "beat": 42,
+      "time": 21.0,
+      "frame": 630,
+      "downbeat": false
+    },
+    {
+      "beat": 43,
+      "time": 21.5,
+      "frame": 645,
+      "downbeat": false
+    },
+    {
+      "beat": 44,
+      "time": 22.0,
+      "frame": 660,
+      "downbeat": true
+    },
+    {
+      "beat": 45,
+      "time": 22.5,
+      "frame": 675,
+      "downbeat": false
+    },
+    {
+      "beat": 46,
+      "time": 23.0,
+      "frame": 690,
+      "downbeat": false
+    },
+    {
+      "beat": 47,
+      "time": 23.5,
+      "frame": 705,
+      "downbeat": false
+    },
+    {
+      "beat": 48,
+      "time": 24.0,
+      "frame": 720,
+      "downbeat": true
+    },
+    {
+      "beat": 49,
+      "time": 24.5,
+      "frame": 735,
+      "downbeat": false
+    },
+    {
+      "beat": 50,
+      "time": 25.0,
+      "frame": 750,
+      "downbeat": false
+    },
+    {
+      "beat": 51,
+      "time": 25.5,
+      "frame": 765,
+      "downbeat": false
+    },
+    {
+      "beat": 52,
+      "time": 26.0,
+      "frame": 780,
+      "downbeat": true
+    },
+    {
+      "beat": 53,
+      "time": 26.5,
+      "frame": 795,
+      "downbeat": false
+    },
+    {
+      "beat": 54,
+      "time": 27.0,
+      "frame": 810,
+      "downbeat": false
+    },
+    {
+      "beat": 55,
+      "time": 27.5,
+      "frame": 825,
+      "downbeat": false
+    },
+    {
+      "beat": 56,
+      "time": 28.0,
+      "frame": 840,
+      "downbeat": true
+    },
+    {
+      "beat": 57,
+      "time": 28.5,
+      "frame": 855,
+      "downbeat": false
+    },
+    {
+      "beat": 58,
+      "time": 29.0,
+      "frame": 870,
+      "downbeat": false
+    },
+    {
+      "beat": 59,
+      "time": 29.5,
+      "frame": 885,
+      "downbeat": false
+    },
+    {
+      "beat": 60,
+      "time": 30.0,
+      "frame": 900,
+      "downbeat": true
+    },
+    {
+      "beat": 61,
+      "time": 30.5,
+      "frame": 915,
+      "downbeat": false
+    },
+    {
+      "beat": 62,
+      "time": 31.0,
+      "frame": 930,
+      "downbeat": false
+    },
+    {
+      "beat": 63,
+      "time": 31.5,
+      "frame": 945,
+      "downbeat": false
+    },
+    {
+      "beat": 64,
+      "time": 32.0,
+      "frame": 960,
+      "downbeat": true
+    },
+    {
+      "beat": 65,
+      "time": 32.5,
+      "frame": 975,
+      "downbeat": false
+    },
+    {
+      "beat": 66,
+      "time": 33.0,
+      "frame": 990,
+      "downbeat": false
+    },
+    {
+      "beat": 67,
+      "time": 33.5,
+      "frame": 1005,
+      "downbeat": false
+    },
+    {
+      "beat": 68,
+      "time": 34.0,
+      "frame": 1020,
+      "downbeat": true
+    },
+    {
+      "beat": 69,
+      "time": 34.5,
+      "frame": 1035,
+      "downbeat": false
+    },
+    {
+      "beat": 70,
+      "time": 35.0,
+      "frame": 1050,
+      "downbeat": false
+    },
+    {
+      "beat": 71,
+      "time": 35.5,
+      "frame": 1065,
+      "downbeat": false
+    },
+    {
+      "beat": 72,
+      "time": 36.0,
+      "frame": 1080,
+      "downbeat": true
+    },
+    {
+      "beat": 73,
+      "time": 36.5,
+      "frame": 1095,
+      "downbeat": false
+    },
+    {
+      "beat": 74,
+      "time": 37.0,
+      "frame": 1110,
+      "downbeat": false
+    },
+    {
+      "beat": 75,
+      "time": 37.5,
+      "frame": 1125,
+      "downbeat": false
+    },
+    {
+      "beat": 76,
+      "time": 38.0,
+      "frame": 1140,
+      "downbeat": true
+    },
+    {
+      "beat": 77,
+      "time": 38.5,
+      "frame": 1155,
+      "downbeat": false
+    },
+    {
+      "beat": 78,
+      "time": 39.0,
+      "frame": 1170,
+      "downbeat": false
+    },
+    {
+      "beat": 79,
+      "time": 39.5,
+      "frame": 1185,
+      "downbeat": false
+    },
+    {
+      "beat": 80,
+      "time": 40.0,
+      "frame": 1200,
+      "downbeat": true
+    },
+    {
+      "beat": 81,
+      "time": 40.5,
+      "frame": 1215,
+      "downbeat": false
+    },
+    {
+      "beat": 82,
+      "time": 41.0,
+      "frame": 1230,
+      "downbeat": false
+    },
+    {
+      "beat": 83,
+      "time": 41.5,
+      "frame": 1245,
+      "downbeat": false
+    },
+    {
+      "beat": 84,
+      "time": 42.0,
+      "frame": 1260,
+      "downbeat": true
+    },
+    {
+      "beat": 85,
+      "time": 42.5,
+      "frame": 1275,
+      "downbeat": false
+    },
+    {
+      "beat": 86,
+      "time": 43.0,
+      "frame": 1290,
+      "downbeat": false
+    },
+    {
+      "beat": 87,
+      "time": 43.5,
+      "frame": 1305,
+      "downbeat": false
+    },
+    {
+      "beat": 88,
+      "time": 44.0,
+      "frame": 1320,
+      "downbeat": true
+    },
+    {
+      "beat": 89,
+      "time": 44.5,
+      "frame": 1335,
+      "downbeat": false
+    },
+    {
+      "beat": 90,
+      "time": 45.0,
+      "frame": 1350,
+      "downbeat": false
+    },
+    {
+      "beat": 91,
+      "time": 45.5,
+      "frame": 1365,
+      "downbeat": false
+    },
+    {
+      "beat": 92,
+      "time": 46.0,
+      "frame": 1380,
+      "downbeat": true
+    },
+    {
+      "beat": 93,
+      "time": 46.5,
+      "frame": 1395,
+      "downbeat": false
+    },
+    {
+      "beat": 94,
+      "time": 47.0,
+      "frame": 1410,
+      "downbeat": false
+    },
+    {
+      "beat": 95,
+      "time": 47.5,
+      "frame": 1425,
+      "downbeat": false
+    },
+    {
+      "beat": 96,
+      "time": 48.0,
+      "frame": 1440,
+      "downbeat": true
+    },
+    {
+      "beat": 97,
+      "time": 48.5,
+      "frame": 1455,
+      "downbeat": false
+    },
+    {
+      "beat": 98,
+      "time": 49.0,
+      "frame": 1470,
+      "downbeat": false
+    },
+    {
+      "beat": 99,
+      "time": 49.5,
+      "frame": 1485,
+      "downbeat": false
+    },
+    {
+      "beat": 100,
+      "time": 50.0,
+      "frame": 1500,
+      "downbeat": true
+    },
+    {
+      "beat": 101,
+      "time": 50.5,
+      "frame": 1515,
+      "downbeat": false
+    },
+    {
+      "beat": 102,
+      "time": 51.0,
+      "frame": 1530,
+      "downbeat": false
+    },
+    {
+      "beat": 103,
+      "time": 51.5,
+      "frame": 1545,
+      "downbeat": false
+    },
+    {
+      "beat": 104,
+      "time": 52.0,
+      "frame": 1560,
+      "downbeat": true
+    },
+    {
+      "beat": 105,
+      "time": 52.5,
+      "frame": 1575,
+      "downbeat": false
+    },
+    {
+      "beat": 106,
+      "time": 53.0,
+      "frame": 1590,
+      "downbeat": false
+    },
+    {
+      "beat": 107,
+      "time": 53.5,
+      "frame": 1605,
+      "downbeat": false
+    },
+    {
+      "beat": 108,
+      "time": 54.0,
+      "frame": 1620,
+      "downbeat": true
+    },
+    {
+      "beat": 109,
+      "time": 54.5,
+      "frame": 1635,
+      "downbeat": false
+    },
+    {
+      "beat": 110,
+      "time": 55.0,
+      "frame": 1650,
+      "downbeat": false
+    },
+    {
+      "beat": 111,
+      "time": 55.5,
+      "frame": 1665,
+      "downbeat": false
+    },
+    {
+      "beat": 112,
+      "time": 56.0,
+      "frame": 1680,
+      "downbeat": true
+    },
+    {
+      "beat": 113,
+      "time": 56.5,
+      "frame": 1695,
+      "downbeat": false
+    },
+    {
+      "beat": 114,
+      "time": 57.0,
+      "frame": 1710,
+      "downbeat": false
+    },
+    {
+      "beat": 115,
+      "time": 57.5,
+      "frame": 1725,
+      "downbeat": false
+    },
+    {
+      "beat": 116,
+      "time": 58.0,
+      "frame": 1740,
+      "downbeat": true
+    },
+    {
+      "beat": 117,
+      "time": 58.5,
+      "frame": 1755,
+      "downbeat": false
+    },
+    {
+      "beat": 118,
+      "time": 59.0,
+      "frame": 1770,
+      "downbeat": false
+    },
+    {
+      "beat": 119,
+      "time": 59.5,
+      "frame": 1785,
+      "downbeat": false
+    },
+    {
+      "beat": 120,
+      "time": 60.0,
+      "frame": 1800,
+      "downbeat": true
+    },
+    {
+      "beat": 121,
+      "time": 60.5,
+      "frame": 1815,
+      "downbeat": false
+    },
+    {
+      "beat": 122,
+      "time": 61.0,
+      "frame": 1830,
+      "downbeat": false
+    },
+    {
+      "beat": 123,
+      "time": 61.5,
+      "frame": 1845,
+      "downbeat": false
+    },
+    {
+      "beat": 124,
+      "time": 62.0,
+      "frame": 1860,
+      "downbeat": true
+    },
+    {
+      "beat": 125,
+      "time": 62.5,
+      "frame": 1875,
+      "downbeat": false
+    },
+    {
+      "beat": 126,
+      "time": 63.0,
+      "frame": 1890,
+      "downbeat": false
+    },
+    {
+      "beat": 127,
+      "time": 63.5,
+      "frame": 1905,
+      "downbeat": false
+    },
+    {
+      "beat": 128,
+      "time": 64.0,
+      "frame": 1920,
+      "downbeat": true
+    },
+    {
+      "beat": 129,
+      "time": 64.5,
+      "frame": 1935,
+      "downbeat": false
+    },
+    {
+      "beat": 130,
+      "time": 65.0,
+      "frame": 1950,
+      "downbeat": false
+    },
+    {
+      "beat": 131,
+      "time": 65.5,
+      "frame": 1965,
+      "downbeat": false
+    },
+    {
+      "beat": 132,
+      "time": 66.0,
+      "frame": 1980,
+      "downbeat": true
+    },
+    {
+      "beat": 133,
+      "time": 66.5,
+      "frame": 1995,
+      "downbeat": false
+    },
+    {
+      "beat": 134,
+      "time": 67.0,
+      "frame": 2010,
+      "downbeat": false
+    },
+    {
+      "beat": 135,
+      "time": 67.5,
+      "frame": 2025,
+      "downbeat": false
+    },
+    {
+      "beat": 136,
+      "time": 68.0,
+      "frame": 2040,
+      "downbeat": true
+    },
+    {
+      "beat": 137,
+      "time": 68.5,
+      "frame": 2055,
+      "downbeat": false
+    },
+    {
+      "beat": 138,
+      "time": 69.0,
+      "frame": 2070,
+      "downbeat": false
+    },
+    {
+      "beat": 139,
+      "time": 69.5,
+      "frame": 2085,
+      "downbeat": false
+    },
+    {
+      "beat": 140,
+      "time": 70.0,
+      "frame": 2100,
+      "downbeat": true
+    },
+    {
+      "beat": 141,
+      "time": 70.5,
+      "frame": 2115,
+      "downbeat": false
+    },
+    {
+      "beat": 142,
+      "time": 71.0,
+      "frame": 2130,
+      "downbeat": false
+    },
+    {
+      "beat": 143,
+      "time": 71.5,
+      "frame": 2145,
+      "downbeat": false
+    },
+    {
+      "beat": 144,
+      "time": 72.0,
+      "frame": 2160,
+      "downbeat": true
+    },
+    {
+      "beat": 145,
+      "time": 72.5,
+      "frame": 2175,
+      "downbeat": false
+    },
+    {
+      "beat": 146,
+      "time": 73.0,
+      "frame": 2190,
+      "downbeat": false
+    },
+    {
+      "beat": 147,
+      "time": 73.5,
+      "frame": 2205,
+      "downbeat": false
+    },
+    {
+      "beat": 148,
+      "time": 74.0,
+      "frame": 2220,
+      "downbeat": true
+    },
+    {
+      "beat": 149,
+      "time": 74.5,
+      "frame": 2235,
+      "downbeat": false
+    },
+    {
+      "beat": 150,
+      "time": 75.0,
+      "frame": 2250,
+      "downbeat": false
+    },
+    {
+      "beat": 151,
+      "time": 75.5,
+      "frame": 2265,
+      "downbeat": false
+    },
+    {
+      "beat": 152,
+      "time": 76.0,
+      "frame": 2280,
+      "downbeat": true
+    },
+    {
+      "beat": 153,
+      "time": 76.5,
+      "frame": 2295,
+      "downbeat": false
+    },
+    {
+      "beat": 154,
+      "time": 77.0,
+      "frame": 2310,
+      "downbeat": false
+    },
+    {
+      "beat": 155,
+      "time": 77.5,
+      "frame": 2325,
+      "downbeat": false
+    },
+    {
+      "beat": 156,
+      "time": 78.0,
+      "frame": 2340,
+      "downbeat": true
+    },
+    {
+      "beat": 157,
+      "time": 78.5,
+      "frame": 2355,
+      "downbeat": false
+    },
+    {
+      "beat": 158,
+      "time": 79.0,
+      "frame": 2370,
+      "downbeat": false
+    },
+    {
+      "beat": 159,
+      "time": 79.5,
+      "frame": 2385,
+      "downbeat": false
+    },
+    {
+      "beat": 160,
+      "time": 80.0,
+      "frame": 2400,
+      "downbeat": true
+    },
+    {
+      "beat": 161,
+      "time": 80.5,
+      "frame": 2415,
+      "downbeat": false
+    },
+    {
+      "beat": 162,
+      "time": 81.0,
+      "frame": 2430,
+      "downbeat": false
+    },
+    {
+      "beat": 163,
+      "time": 81.5,
+      "frame": 2445,
+      "downbeat": false
+    },
+    {
+      "beat": 164,
+      "time": 82.0,
+      "frame": 2460,
+      "downbeat": true
+    },
+    {
+      "beat": 165,
+      "time": 82.5,
+      "frame": 2475,
+      "downbeat": false
+    },
+    {
+      "beat": 166,
+      "time": 83.0,
+      "frame": 2490,
+      "downbeat": false
+    },
+    {
+      "beat": 167,
+      "time": 83.5,
+      "frame": 2505,
+      "downbeat": false
+    },
+    {
+      "beat": 168,
+      "time": 84.0,
+      "frame": 2520,
+      "downbeat": true
+    },
+    {
+      "beat": 169,
+      "time": 84.5,
+      "frame": 2535,
+      "downbeat": false
+    },
+    {
+      "beat": 170,
+      "time": 85.0,
+      "frame": 2550,
+      "downbeat": false
+    },
+    {
+      "beat": 171,
+      "time": 85.5,
+      "frame": 2565,
+      "downbeat": false
+    },
+    {
+      "beat": 172,
+      "time": 86.0,
+      "frame": 2580,
+      "downbeat": true
+    },
+    {
+      "beat": 173,
+      "time": 86.5,
+      "frame": 2595,
+      "downbeat": false
+    },
+    {
+      "beat": 174,
+      "time": 87.0,
+      "frame": 2610,
+      "downbeat": false
+    },
+    {
+      "beat": 175,
+      "time": 87.5,
+      "frame": 2625,
+      "downbeat": false
+    },
+    {
+      "beat": 176,
+      "time": 88.0,
+      "frame": 2640,
+      "downbeat": true
+    },
+    {
+      "beat": 177,
+      "time": 88.5,
+      "frame": 2655,
+      "downbeat": false
+    },
+    {
+      "beat": 178,
+      "time": 89.0,
+      "frame": 2670,
+      "downbeat": false
+    },
+    {
+      "beat": 179,
+      "time": 89.5,
+      "frame": 2685,
+      "downbeat": false
+    }
+  ]
+}

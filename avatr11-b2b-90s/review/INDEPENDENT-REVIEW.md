@@ -1,0 +1,21 @@
+# Independent AVATR 11 source/still review
+
+2026-10-21. Read DESIGN.md, storyboard.json, scripts/content.py/build.py and review/browser-check.json; inspected all13 previews and independently tested http://127.0.0.1:3037/index.html. Adapted final-review.md/aesthetic-rules.md to the explicitly approved static-photo, header/two-column HyperFrames brief. No product modifications/render.
+
+## Resolved MUSTFIX
+
+1. **R1/readability — dimension counters lack a quiet completed hold.** Page7 ends54s; height/wheelbase/seating enter52s, count duration1.8s leaves only0.2s fully settled. `previews/07.png`53.7s shows wheelbase2,974, not final2,975. Independent browser verifies2,975 at53.8s. **FIX VERIFIED:** latest source cues dimensions48s, wheelbase/seats50s; all settle by51.8s, leaving2.2s. Independent browser and regenerated07.png now show2,975 at53.7s.
+
+## Resolved minor recommendation
+
+2. **Marker target — roof arrow endpoint is above the roof.** `previews/02.png`11.7s: circle includes roof/rear-window region, but path endpoint(505,85) in750×400 image coordinates lies in sky above actual roofline. **FIX VERIFIED:** endpoint now(505,108), visually meets roofline in regenerated02.png. Front/cockpit circles identify the intended front fascia/screen. Thin navy overlays are subdued and sometimes low contrast against dark vehicle surfaces; this follows requested1.2px/.7 styling.
+
+## Verified
+
+3. **Photo integrity PASS:** Independently compared SHA256/content of all21 assets/photos files to every member of original uploaded ZIP at `/workspace/attachments/94a41c03-cd33-42e4-a0a1-349dc18fcc9c/详情图-阿维塔11.zip`. Every asset matches original bytes despite renamed filenames; evidence independent-photo-bytes.json. Source uses fixed contain images, no photo transformation/filter/crop or image-specific animation. Own browser confirms transform/filter none. Whole-scene opacity transition is consistent with approved exception. Original Chinese embedded in photos is preserved; authored labels/notes/captions are English.
+4. **Data PASS against brief:** BEV116.79kWh,815RWD/760AWD CLTC,15.8–16.7kWh/100km;800V/240kW/≈25min30–80%SOC. REEV39.05kWh,225CLTC/180WLTC electric,1,065CLTC combined/≈15min30–80%SOC; conditions/combined fuel-electric notes present. Dimensions4,895×1,970×1,601mm,wheelbase2,975mm,five seats stored accurately. >120,000 sales is explicitly AVATR brand/all models/2025, not model sales. Unexplained19.9 figure excluded. Trim/market/ADAS limits and UNILAND service distinction retained. Official URL summaries remain user-provided; no independent fact verification asserted.
+5. **Layout PASS apart from hold:** Viewed01–13.png: no clipping/overflow, card/photo-note overlap or caption collision observed. B2B CTA/website visible. Modern light/semibold sans styling matches documented OpenSans substitution; no claim actualManrope. Numeric emphasis clear. Source specifies1920×1080,30fps,90s,120BPM; no3D/cartoon/AI vehicle generation.
+6. **Seeking/early reveal PASS limited sample:** Own16→62→16s screenshot comparison byte-identical. At12s initial BEV counters0, hidden;13s first count106.54 visible and future rows remain0/opacity0;14s battery116.79 final, remaining rows still hidden. Evidence independent-browser.json. No premature later-row values observed. Countup text is frame-derived. Existing browser-check reports no page errors/bounds issues.
+7. **Narration/captions/source PASS:** storyboard narration strings match content.py six approved sections. Captions draw from measured sentence windows; estimated subdivisions explicitly disclosed, no forced-alignment claim. Cannot certify auditory intelligibility, calm male character, perceived pace, music beat/mix or exact spoken word timing without listening. No subjective listening performed.
+
+**Decision:** Source/still review passes after targeted recheck; no remaining MUSTFIX. Regenerated03.png also confirms the producer-reported consumption-number overflow fix (46px) fits its card. ActualMP4 metadata/decode/frame/transition/audio numerical checks remain pending. Still inspection cannot certify continuous motion or final encoding quality. Attribution/kicker notes22–29px fall below skill32px auxiliary recommendation; existing approved layout and full-size stills remain readable, with smaller-window readability a limitation.

@@ -1,0 +1,50 @@
+[
+  {
+    "scene": 1,
+    "raw_seconds": 11.845333333333333,
+    "available_seconds": 11.68,
+    "tempo": 1.0141552511415526,
+    "start": 0.16,
+    "end": 11.819125
+  },
+  {
+    "scene": 2,
+    "raw_seconds": 15.557333333333332,
+    "available_seconds": 19.68,
+    "tempo": 0.9,
+    "start": 12.16,
+    "end": 29.421875
+  },
+  {
+    "scene": 3,
+    "raw_seconds": 14.477333333333332,
+    "available_seconds": 15.680000000000007,
+    "tempo": 0.9232993197278907,
+    "start": 32.16,
+    "end": 47.815416666666664
+  },
+  {
+    "scene": 4,
+    "raw_seconds": 13.765333333333333,
+    "available_seconds": 15.680000000000007,
+    "tempo": 0.9,
+    "start": 48.16,
+    "end": 63.42933333333333
+  },
+  {
+    "scene": 5,
+    "raw_seconds": 14.802666666666667,
+    "available_seconds": 13.680000000000007,
+    "tempo": 1.0820662768031184,
+    "start": 64.16,
+    "end": 77.82083333333333
+  },
+  {
+    "scene": 6,
+    "raw_seconds": 12.152,
+    "available_seconds": 11.680000000000007,
+    "tempo": 1.0404109589041088,
+    "start": 78.16,
+    "end": 89.81995833333333
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "ok": true,
+  "errorCount": 0,
+  "warningCount": 16,
+  "infoCount": 0,
+  "findings": [
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=assets/photos/42.jpg data-start= data-duration=",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 7 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 2 has 6 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html"
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s0\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s0",
+      "fixHint": "Move <section id=\"s0\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 3806
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s1\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s1",
+      "fixHint": "Move <section id=\"s1\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 5137
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s2\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s2",
+      "fixHint": "Move <section id=\"s2\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 6441
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s3\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s3",
+      "fixHint": "Move <section id=\"s3\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 8208
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s4\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s4",
+      "fixHint": "Move <section id=\"s4\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 9643
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s5\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s5",
+      "fixHint": "Move <section id=\"s5\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 11079
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s6\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s6",
+      "fixHint": "Move <section id=\"s6\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 12321
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s7\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s7",
+      "fixHint": "Move <section id=\"s7\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 14134
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s8\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s8",
+      "fixHint": "Move <section id=\"s8\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 15532
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s9\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s9",
+      "fixHint": "Move <section id=\"s9\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 16490
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s10\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s10",
+      "fixHint": "Move <section id=\"s10\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 17468
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s11\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s11",
+      "fixHint": "Move <section id=\"s11\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 18629
+    },
+    {
+      "code": "nested_structure_needs_subcomposition",
+      "severity": "warning",
+      "message": "<section id=\"s12\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+      "elementId": "s12",
+      "fixHint": "Move <section id=\"s12\"> and its contents into a sub-composition file and mount it with data-composition-src.",
+      "file": "/workspace/hyperframes-ev-presentation-/avatr11-b2b-90s/index.html",
+      "line": 1,
+      "column": 19635
+    }
+  ],
+  "filesScanned": 1,
+  "_meta": {
+    "version": "0.8.181",
+    "updateAvailable": false
+  }
+}
