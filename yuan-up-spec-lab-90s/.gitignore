@@ -1,4 +1,4 @@
-node_modules/
+node_modules
 .remotion/
 work/
 renders/visual.mp4
