@@ -2,3 +2,7 @@ node_modules
 .remotion/
 work/
 renders/visual.mp4
+renders/visual-es.mp4
+
+review/render-es*.log
+review/audio-generation-es.log

@@ -75,3 +75,11 @@ English B2B product explainer, natively built in Remotion. 1920×1080 landscape,
 - [Preview contact sheet](yuan-up-spec-lab-90s/review/contact-sheet.jpg)
 
 Specifications, model year, current stock and40+country company export experience were confirmed by the user. CLTC figures and charging time are conditional; actual equipment and export eligibility depend on configuration and destination. Photo originals are preserved byte-for-byte.
+
+### Spanish edition
+
+Same90-second Yuan UP film with Spanish male narration and synchronized Spanish subtitles; original English parameter cards and series identity retained.
+
+- [Download Spanish MP4](yuan-up-spec-lab-90s/renders/yuan-up-uniland-spec-lab-90s-es.mp4)
+- [Spanish MP4 without music](yuan-up-spec-lab-90s/renders/yuan-up-uniland-spec-lab-90s-es-no-music.mp4)
+- [Spanish SRT subtitles](yuan-up-spec-lab-90s/subtitles-es.srt)

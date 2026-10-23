@@ -6,7 +6,9 @@
     "dev": "remotion studio src/index.tsx --no-open --port=3031",
     "typecheck": "tsc --noEmit",
     "render": "remotion render src/index.tsx YuanUp90 renders/visual.mp4 --muted --browser-executable=/usr/bin/chromium --concurrency=3 --crf=18",
-    "finalize": "python3 scripts/finalize.py"
+    "finalize": "python3 scripts/finalize.py",
+    "render:es": "remotion render src/index.tsx YuanUp90ES renders/visual-es.mp4 --muted --browser-executable=/usr/bin/chromium --concurrency=3 --crf=18",
+    "finalize:es": "python3 scripts/finalize-es.py"
   },
   "dependencies": {
     "@remotion/cli": "4.0.484",

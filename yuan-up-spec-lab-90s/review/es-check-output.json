@@ -1,0 +1,48 @@
+{
+  "yuan-up-uniland-spec-lab-90s-es.mp4": {
+    "duration": "90.000000",
+    "width": 1920,
+    "height": 1080,
+    "frames": "2700",
+    "fps": "30/1",
+    "audio": "aac",
+    "audio_rate": "48000",
+    "bytes": 23283982,
+    "video_stream_hash": "0,v,SHA256=447e54b97a90f1d97e7e9a85c85c81180e293e46272b194fa96deeab5406b90f"
+  },
+  "yuan-up-uniland-spec-lab-90s-es-no-music.mp4": {
+    "duration": "90.000000",
+    "width": 1920,
+    "height": 1080,
+    "frames": "2700",
+    "fps": "30/1",
+    "audio": "aac",
+    "audio_rate": "48000",
+    "bytes": 22988276,
+    "video_stream_hash": "0,v,SHA256=447e54b97a90f1d97e7e9a85c85c81180e293e46272b194fa96deeab5406b90f"
+  },
+  "photo_hashes": true,
+  "mux_audio_alignment": [
+    {
+      "probe_seconds": 12,
+      "lag_samples": 0.0,
+      "lag_ms": 0.0
+    },
+    {
+      "probe_seconds": 29,
+      "lag_samples": 0.0,
+      "lag_ms": 0.0
+    },
+    {
+      "probe_seconds": 50,
+      "lag_samples": 0.0,
+      "lag_ms": 0.0
+    },
+    {
+      "probe_seconds": 82,
+      "lag_samples": 1.0,
+      "lag_ms": 0.020833333333333332
+    }
+  ],
+  "decoded_peak_dbfs": -1.77422034740448
+}

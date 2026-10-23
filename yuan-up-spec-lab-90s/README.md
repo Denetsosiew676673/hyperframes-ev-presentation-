@@ -30,3 +30,9 @@ Gallery sources: video-shotcraft upstream 43bd349. Exact selected TSX examples a
 Narrator: synthetic Kokoro am_michael. Music and keyboard taps: original deterministic synthesis. Fonts: Open Sans and DejaVu, licenses in reference/. Photos: user supplied. No third-party narration cloning.
 
 Validation helpers: `scripts/check.py` requires NumPy, SoundFile and Pillow. Final mux alignment, frame count, photo hashes and video-stream identity are recorded in review/technical-check.json. Keyframe review uses the extracted final MP4 frames, not only Studio stills.
+
+## Spanish narration and subtitles
+
+`renders/yuan-up-uniland-spec-lab-90s-es.mp4` includes Spanish male narration and burned-in Spanish captions. `-es-no-music.mp4` retains Spanish narration and keyboard SFX without background music. `subtitles-es.srt` is provided separately. The original English picture cards, UNILAND SPEC LAB identity, photographs and motion remain unchanged; the localization scope is narration and captions. The English MP4 remains available.
+
+In Studio select `YuanUp90ES`; render with `npm run render:es`, then `npm run finalize:es`. Spanish assets use dedicated filenames and the original composition defaults to English. Synthetic Kokoro `em_alex`, Spanish language, at94% natural playback rate; no scene is accelerated. Phrase timing comes from the actual synthesized audio segments. Review notes and checks are under review/es/ and independent-review-es.md.
