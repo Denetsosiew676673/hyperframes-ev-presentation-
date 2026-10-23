@@ -1,0 +1,51 @@
+[
+  {
+    "scene": "opening",
+    "start": 0.16,
+    "end": 10.609666666666667,
+    "raw_duration": 9.845083333333333,
+    "tempo": 0.94
+  },
+  {
+    "scene": "range",
+    "start": 11.16,
+    "end": 23.227708333333332,
+    "raw_duration": 11.365833333333333,
+    "tempo": 0.94
+  },
+  {
+    "scene": "battery",
+    "start": 24.16,
+    "end": 35.76891666666667,
+    "raw_duration": 10.933958333333333,
+    "tempo": 0.94
+  },
+  {
+    "scene": "charge",
+    "start": 36.16,
+    "end": 47.18041666666666,
+    "raw_duration": 10.381291666666666,
+    "tempo": 0.94
+  },
+  {
+    "scene": "cockpit",
+    "start": 48.16,
+    "end": 61.944624999999995,
+    "raw_duration": 12.979083333333332,
+    "tempo": 0.94
+  },
+  {
+    "scene": "space",
+    "start": 63.16,
+    "end": 75.90741666666666,
+    "raw_duration": 12.004583333333333,
+    "tempo": 0.94
+  },
+  {
+    "scene": "export",
+    "start": 77.16,
+    "end": 89.81820833333333,
+    "raw_duration": 12.486958333333334,
+    "tempo": 0.9847758937960043
+  }
+]

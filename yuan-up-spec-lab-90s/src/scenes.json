@@ -1,0 +1,79 @@
+[
+  {
+    "id": "opening",
+    "from": 0,
+    "duration": 330,
+    "title": "Meet Yuan UP.",
+    "photo": "1.png",
+    "voice": [
+      "The 2027 BYD Yuan UP, also known as Atto 2,",
+      "is a compact pure electric SUV built for urban commuting and everyday use."
+    ]
+  },
+  {
+    "id": "range",
+    "from": 330,
+    "duration": 390,
+    "title": "Built for the city.",
+    "photo": "4.jpg",
+    "voice": [
+      "Yuan UP delivers 401 kilometres CLTC range with a 70 kilowatt front motor,",
+      "making it a practical choice for city routes and light fleet operation."
+    ]
+  },
+  {
+    "id": "battery",
+    "from": 720,
+    "duration": 360,
+    "title": "Blade battery. Daily confidence.",
+    "photo": "3.png",
+    "voice": [
+      "It is equipped with a 45.12 kilowatt-hour BYD Blade LFP battery,",
+      "designed for stability, durability and reliable daily performance."
+    ]
+  },
+  {
+    "id": "charge",
+    "from": 1080,
+    "duration": 360,
+    "title": "More uptime. Less waiting.",
+    "photo": "9.png",
+    "voice": [
+      "DC fast charging from 30 to 80 percent takes about 30 minutes under suitable conditions,",
+      "reducing waiting time for commercial operation."
+    ]
+  },
+  {
+    "id": "cockpit",
+    "from": 1440,
+    "duration": 450,
+    "title": "Connected. Aware. Confident.",
+    "photo": "13.jpg",
+    "voice": [
+      "The 12.8-inch touchscreen, DiLink 100 infotainment,",
+      "360-degree camera and DiPilot 100 support an intelligent and confident driving experience."
+    ]
+  },
+  {
+    "id": "space",
+    "from": 1890,
+    "duration": 420,
+    "title": "Compact outside. Flexible inside.",
+    "photo": "8.jpg",
+    "voice": [
+      "With a 2620 millimetre wheelbase, five-door five-seat layout and split folding rear seats,",
+      "Yuan UP balances passenger comfort and flexible cargo space."
+    ]
+  },
+  {
+    "id": "export",
+    "from": 2310,
+    "duration": 390,
+    "title": "In stock. Ready for your enquiry.",
+    "photo": "5.png",
+    "voice": [
+      "In stock now. UNILAND supports BYD Yuan UP export with sourcing and configuration verification,",
+      "pre-shipment inspection, export documentation and international logistics."
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "uniland-yuan-up-spec-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.tsx --no-open --port=3031",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.tsx YuanUp90 renders/visual.mp4 --muted --browser-executable=/usr/bin/chromium --concurrency=3 --crf=18",
+    "finalize": "python3 scripts/finalize.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}

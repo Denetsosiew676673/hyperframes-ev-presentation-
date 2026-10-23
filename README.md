@@ -64,3 +64,14 @@ Download and unzip, open index.html and click Play. A narrated MP4 was subsequen
 - [Source and verification notes](avatr11-b2b-90s/README.md)
 
 Source photographs are unchanged byte-for-byte. User-provided2025 parameters include charging SOC conditions and trim/market qualifiers; official-page access was proxy-blocked, so independent original-source verification is not claimed.
+
+## Latest: UNILAND SPEC LAB · BYD Yuan UP / Atto 2 · 90 seconds
+
+English B2B product explainer, natively built in Remotion. 1920×1080 landscape, 30fps. Calm synthetic male narration, matching English captions, quiet original music, original user-supplied photographs, restrained inline SVG diagrams and counters. User authorized extending the initial75-second request for slower delivery. Includes typewriter-moves series identity and a2D spotlight-hero-card adaptation without3D,bounce,particles or flashes.
+
+- [Download MP4 with narration and music](yuan-up-spec-lab-90s/renders/yuan-up-uniland-spec-lab-90s.mp4)
+- [Download MP4 without background music](yuan-up-spec-lab-90s/renders/yuan-up-uniland-spec-lab-90s-no-music.mp4)
+- [Editable Remotion project](yuan-up-spec-lab-90s/README.md)
+- [Preview contact sheet](yuan-up-spec-lab-90s/review/contact-sheet.jpg)
+
+Specifications, model year, current stock and40+country company export experience were confirmed by the user. CLTC figures and charging time are conditional; actual equipment and export eligibility depend on configuration and destination. Photo originals are preserved byte-for-byte.
