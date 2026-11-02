@@ -1,0 +1,1973 @@
+[
+  {
+    "row": 3,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "厂商",
+    "item_en": "Manufacturer",
+    "value_cn": "比亚迪",
+    "value_en": "BYD"
+  },
+  {
+    "row": 4,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "级别",
+    "item_en": "Segment",
+    "value_cn": "中型SUV",
+    "value_en": "Midsize SUV"
+  },
+  {
+    "row": 5,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "能源类型",
+    "item_en": "Energy Type",
+    "value_cn": "纯电动",
+    "value_en": "Battery Electric"
+  },
+  {
+    "row": 6,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "上市时间",
+    "item_en": "Launch Date",
+    "value_cn": "2025年7月24日",
+    "value_en": "Jul 24, 2025"
+  },
+  {
+    "row": 7,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "CLTC纯电续航里程",
+    "item_en": "CLTC Range",
+    "value_cn": "605 km",
+    "value_en": "605 km"
+  },
+  {
+    "row": 8,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "电池快充时间",
+    "item_en": "Fast Charge Time",
+    "value_cn": "0.3 小时（30 分钟）",
+    "value_en": "0.3 h (30 min)"
+  },
+  {
+    "row": 9,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "电池快充电量范围",
+    "item_en": "Fast Charge SOC Range",
+    "value_cn": "30% 至 80%",
+    "value_en": "30% to 80%"
+  },
+  {
+    "row": 10,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "最大功率",
+    "item_en": "Max Power",
+    "value_cn": "180 kW",
+    "value_en": "180 kW"
+  },
+  {
+    "row": 11,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "最大扭矩",
+    "item_en": "Max Torque",
+    "value_cn": "330 N.m",
+    "value_en": "330 N.m"
+  },
+  {
+    "row": 12,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "车身结构",
+    "item_en": "Body Structure",
+    "value_cn": "5门5座SUV",
+    "value_en": "5 door 5 seat SUV"
+  },
+  {
+    "row": 13,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "电动机马力",
+    "item_en": "Electric Motor Power",
+    "value_cn": "245 Ps",
+    "value_en": "245 Ps"
+  },
+  {
+    "row": 14,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "长x宽x高",
+    "item_en": "L x W x H",
+    "value_cn": "4810 x 1920 x 1675 mm",
+    "value_en": "4810 x 1920 x 1675 mm"
+  },
+  {
+    "row": 15,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "官方0至100km/h加速",
+    "item_en": "0 to 100 km/h",
+    "value_cn": "7.7 秒",
+    "value_en": "7.7 s"
+  },
+  {
+    "row": 16,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "最高车速",
+    "item_en": "Top Speed",
+    "value_cn": "185 km/h",
+    "value_en": "185 km/h"
+  },
+  {
+    "row": 17,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "电能当量燃料消耗量",
+    "item_en": "Equivalent Fuel Consumption",
+    "value_cn": "1.64 L/100km",
+    "value_en": "1.64 L/100km"
+  },
+  {
+    "row": 18,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "整备质量",
+    "item_en": "Curb Weight",
+    "value_cn": "2090 kg",
+    "value_en": "2090 kg"
+  },
+  {
+    "row": 19,
+    "category_cn": "基本参数",
+    "category_en": "Basic Parameters",
+    "item_cn": "最大满载质量",
+    "item_en": "Gross Weight",
+    "value_cn": "2545 kg",
+    "value_en": "2545 kg"
+  },
+  {
+    "row": 20,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "长度",
+    "item_en": "Length",
+    "value_cn": "4810 mm",
+    "value_en": "4810 mm"
+  },
+  {
+    "row": 21,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "宽度",
+    "item_en": "Width",
+    "value_cn": "1920 mm",
+    "value_en": "1920 mm"
+  },
+  {
+    "row": 22,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "高度",
+    "item_en": "Height",
+    "value_cn": "1675 mm",
+    "value_en": "1675 mm"
+  },
+  {
+    "row": 23,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "轴距",
+    "item_en": "Wheelbase",
+    "value_cn": "2820 mm",
+    "value_en": "2820 mm"
+  },
+  {
+    "row": 24,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "前轮距",
+    "item_en": "Front Track",
+    "value_cn": "1640 mm",
+    "value_en": "1640 mm"
+  },
+  {
+    "row": 25,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "后轮距",
+    "item_en": "Rear Track",
+    "value_cn": "1665 mm",
+    "value_en": "1665 mm"
+  },
+  {
+    "row": 26,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "接近角",
+    "item_en": "Approach Angle",
+    "value_cn": "18 度",
+    "value_en": "18 deg"
+  },
+  {
+    "row": 27,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "离去角",
+    "item_en": "Departure Angle",
+    "value_cn": "20 度",
+    "value_en": "20 deg"
+  },
+  {
+    "row": 28,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "最小转弯半径",
+    "item_en": "Turning Circle Radius",
+    "value_cn": "5.55 m",
+    "value_en": "5.55 m"
+  },
+  {
+    "row": 29,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "车身结构",
+    "item_en": "Body Type",
+    "value_cn": "SUV",
+    "value_en": "SUV"
+  },
+  {
+    "row": 30,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "车门开启方式",
+    "item_en": "Door Type",
+    "value_cn": "平开门",
+    "value_en": "Conventional doors"
+  },
+  {
+    "row": 31,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "车门数",
+    "item_en": "Number of Doors",
+    "value_cn": "5",
+    "value_en": "5"
+  },
+  {
+    "row": 32,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "座位数",
+    "item_en": "Number of Seats",
+    "value_cn": "5",
+    "value_en": "5"
+  },
+  {
+    "row": 33,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "前备厢容积",
+    "item_en": "Frunk Volume",
+    "value_cn": "142 L",
+    "value_en": "142 L"
+  },
+  {
+    "row": 34,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "后备厢容积",
+    "item_en": "Trunk Volume",
+    "value_cn": "757 L",
+    "value_en": "757 L"
+  },
+  {
+    "row": 35,
+    "category_cn": "车身",
+    "category_en": "Body",
+    "item_cn": "风阻系数",
+    "item_en": "Drag Coefficient",
+    "value_cn": "未标注",
+    "value_en": "Not specified"
+  },
+  {
+    "row": 36,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "后电动机品牌",
+    "item_en": "Rear Motor Brand",
+    "value_cn": "比亚迪",
+    "value_en": "BYD"
+  },
+  {
+    "row": 37,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "后电动机型号",
+    "item_en": "Rear Motor Model",
+    "value_cn": "TZ200XYAJ",
+    "value_en": "TZ200XYAJ"
+  },
+  {
+    "row": 38,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "电机类型",
+    "item_en": "Motor Type",
+    "value_cn": "永磁/同步",
+    "value_en": "Permanent magnet synchronous"
+  },
+  {
+    "row": 39,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "电动机总功率",
+    "item_en": "Total Motor Power",
+    "value_cn": "180 kW",
+    "value_en": "180 kW"
+  },
+  {
+    "row": 40,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "电动机总马力",
+    "item_en": "Total Motor Horsepower",
+    "value_cn": "245 Ps",
+    "value_en": "245 Ps"
+  },
+  {
+    "row": 41,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "电动机总扭矩",
+    "item_en": "Total Motor Torque",
+    "value_cn": "330 N.m",
+    "value_en": "330 N.m"
+  },
+  {
+    "row": 42,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "后电动机最大功率",
+    "item_en": "Rear Motor Max Power",
+    "value_cn": "180 kW",
+    "value_en": "180 kW"
+  },
+  {
+    "row": 43,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "后电动机最大扭矩",
+    "item_en": "Rear Motor Max Torque",
+    "value_cn": "330 N.m",
+    "value_en": "330 N.m"
+  },
+  {
+    "row": 44,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "驱动电机数",
+    "item_en": "Number of Drive Motors",
+    "value_cn": "单电机",
+    "value_en": "Single motor"
+  },
+  {
+    "row": 45,
+    "category_cn": "电动机",
+    "category_en": "Electric Motor",
+    "item_cn": "电机布局",
+    "item_en": "Motor Layout",
+    "value_cn": "后置",
+    "value_en": "Rear mounted"
+  },
+  {
+    "row": 46,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "电池类型",
+    "item_en": "Battery Type",
+    "value_cn": "磷酸铁锂电池",
+    "value_en": "Lithium iron phosphate"
+  },
+  {
+    "row": 47,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "电芯品牌",
+    "item_en": "Cell Brand",
+    "value_cn": "弗迪",
+    "value_en": "FinDreams"
+  },
+  {
+    "row": 48,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "电池特有技术",
+    "item_en": "Battery Technology",
+    "value_cn": "刀片电池",
+    "value_en": "Blade battery"
+  },
+  {
+    "row": 49,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "电池冷却方式",
+    "item_en": "Battery Cooling",
+    "value_cn": "直冷",
+    "value_en": "Direct cooling"
+  },
+  {
+    "row": 50,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "CLTC纯电续航里程",
+    "item_en": "CLTC Range",
+    "value_cn": "605 km",
+    "value_en": "605 km"
+  },
+  {
+    "row": 51,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "电池能量",
+    "item_en": "Battery Capacity",
+    "value_cn": "78.72 kWh",
+    "value_en": "78.72 kWh"
+  },
+  {
+    "row": 52,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "百公里耗电量",
+    "item_en": "Energy Consumption",
+    "value_cn": "14.1 kWh/100km",
+    "value_en": "14.1 kWh/100km"
+  },
+  {
+    "row": 53,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "快充功能",
+    "item_en": "DC Fast Charging",
+    "value_cn": "支持",
+    "value_en": "Supported"
+  },
+  {
+    "row": 54,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "快充功率",
+    "item_en": "Fast Charge Power",
+    "value_cn": "237 kW",
+    "value_en": "237 kW"
+  },
+  {
+    "row": 55,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "高压快充",
+    "item_en": "High Voltage Fast Charging",
+    "value_cn": "支持",
+    "value_en": "Supported"
+  },
+  {
+    "row": 56,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "高压平台",
+    "item_en": "High Voltage Platform",
+    "value_cn": "800 V",
+    "value_en": "800 V"
+  },
+  {
+    "row": 57,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "电池快充时间",
+    "item_en": "Fast Charge Time",
+    "value_cn": "0.3 小时",
+    "value_en": "0.3 h"
+  },
+  {
+    "row": 58,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "电池快充电量范围",
+    "item_en": "Fast Charge SOC Range",
+    "value_cn": "30% 至 80%",
+    "value_en": "30% to 80%"
+  },
+  {
+    "row": 59,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "慢充接口位置",
+    "item_en": "AC Charging Port",
+    "value_cn": "车右后侧",
+    "value_en": "Rear right side"
+  },
+  {
+    "row": 60,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "快充接口位置",
+    "item_en": "DC Charge Port",
+    "value_cn": "车右后侧",
+    "value_en": "Rear right side"
+  },
+  {
+    "row": 61,
+    "category_cn": "电池/充电",
+    "category_en": "Battery and Charging",
+    "item_cn": "对外交流放电功率",
+    "item_en": "V2L Discharge Power",
+    "value_cn": "3.3 kW",
+    "value_en": "3.3 kW"
+  },
+  {
+    "row": 62,
+    "category_cn": "变速箱",
+    "category_en": "Transmission",
+    "item_cn": "简称",
+    "item_en": "Transmission",
+    "value_cn": "电动车单速变速箱",
+    "value_en": "Single speed EV transmission"
+  },
+  {
+    "row": 63,
+    "category_cn": "变速箱",
+    "category_en": "Transmission",
+    "item_cn": "挡位个数",
+    "item_en": "Number of Gears",
+    "value_cn": "1",
+    "value_en": "1"
+  },
+  {
+    "row": 64,
+    "category_cn": "变速箱",
+    "category_en": "Transmission",
+    "item_cn": "变速箱类型",
+    "item_en": "Transmission Type",
+    "value_cn": "固定齿比变速箱",
+    "value_en": "Fixed ratio"
+  },
+  {
+    "row": 65,
+    "category_cn": "底盘转向",
+    "category_en": "Chassis and Steering",
+    "item_cn": "驱动方式",
+    "item_en": "Drive Type",
+    "value_cn": "后置后驱",
+    "value_en": "Rear wheel drive"
+  },
+  {
+    "row": 66,
+    "category_cn": "底盘转向",
+    "category_en": "Chassis and Steering",
+    "item_cn": "前悬架类型",
+    "item_en": "Front Suspension",
+    "value_cn": "双球节麦弗逊式悬架",
+    "value_en": "Double ball joint MacPherson"
+  },
+  {
+    "row": 67,
+    "category_cn": "底盘转向",
+    "category_en": "Chassis and Steering",
+    "item_cn": "后悬架类型",
+    "item_en": "Rear Suspension",
+    "value_cn": "五连杆式独立悬架",
+    "value_en": "Five link independent"
+  },
+  {
+    "row": 68,
+    "category_cn": "底盘转向",
+    "category_en": "Chassis and Steering",
+    "item_cn": "助力类型",
+    "item_en": "Steering Assist",
+    "value_cn": "电动助力",
+    "value_en": "Electric power steering"
+  },
+  {
+    "row": 69,
+    "category_cn": "底盘转向",
+    "category_en": "Chassis and Steering",
+    "item_cn": "车体结构",
+    "item_en": "Body Frame",
+    "value_cn": "承载式",
+    "value_en": "Unibody"
+  },
+  {
+    "row": 70,
+    "category_cn": "车轮制动",
+    "category_en": "Wheels and Brakes",
+    "item_cn": "前制动器类型",
+    "item_en": "Front Brakes",
+    "value_cn": "通风盘式",
+    "value_en": "Ventilated disc"
+  },
+  {
+    "row": 71,
+    "category_cn": "车轮制动",
+    "category_en": "Wheels and Brakes",
+    "item_cn": "后制动器类型",
+    "item_en": "Rear Brakes",
+    "value_cn": "盘式",
+    "value_en": "Disc"
+  },
+  {
+    "row": 72,
+    "category_cn": "车轮制动",
+    "category_en": "Wheels and Brakes",
+    "item_cn": "驻车制动类型",
+    "item_en": "Parking Brake",
+    "value_cn": "电子驻车",
+    "value_en": "Electronic parking brake"
+  },
+  {
+    "row": 73,
+    "category_cn": "车轮制动",
+    "category_en": "Wheels and Brakes",
+    "item_cn": "前轮胎规格",
+    "item_en": "Front Tire Size",
+    "value_cn": "235/50 R19",
+    "value_en": "235/50 R19"
+  },
+  {
+    "row": 74,
+    "category_cn": "车轮制动",
+    "category_en": "Wheels and Brakes",
+    "item_cn": "后轮胎规格",
+    "item_en": "Rear Tire Size",
+    "value_cn": "235/50 R19",
+    "value_en": "235/50 R19"
+  },
+  {
+    "row": 75,
+    "category_cn": "车轮制动",
+    "category_en": "Wheels and Brakes",
+    "item_cn": "备胎规格",
+    "item_en": "Spare Tire",
+    "value_cn": "补胎工具",
+    "value_en": "Tire repair kit"
+  },
+  {
+    "row": 76,
+    "category_cn": "被动安全",
+    "category_en": "Passive Safety",
+    "item_cn": "主/副驾驶座安全气囊",
+    "item_en": "Front Airbags",
+    "value_cn": "主驾/副驾",
+    "value_en": "Driver and passenger"
+  },
+  {
+    "row": 77,
+    "category_cn": "被动安全",
+    "category_en": "Passive Safety",
+    "item_cn": "前/后排侧气囊",
+    "item_en": "Side Airbags",
+    "value_cn": "前排有，后排无",
+    "value_en": "Front only"
+  },
+  {
+    "row": 78,
+    "category_cn": "被动安全",
+    "category_en": "Passive Safety",
+    "item_cn": "前/后排头部气囊（气帘）",
+    "item_en": "Curtain Airbags",
+    "value_cn": "前/后",
+    "value_en": "Front and rear"
+  },
+  {
+    "row": 79,
+    "category_cn": "被动安全",
+    "category_en": "Passive Safety",
+    "item_cn": "前排中间气囊",
+    "item_en": "Front Center Airbag",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 80,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "ABS防抱死",
+    "item_en": "ABS",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 81,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "制动力分配",
+    "item_en": "EBD/CBC",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 82,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "刹车辅助",
+    "item_en": "EBA/BAS/BA",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 83,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "牵引力控制",
+    "item_en": "ASR/TCS/TRC",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 84,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "车身稳定控制",
+    "item_en": "ESC/ESP/DSC",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 85,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "胎压监测功能",
+    "item_en": "Tire Pressure Monitor",
+    "value_cn": "胎压显示",
+    "value_en": "Tire pressure display"
+  },
+  {
+    "row": 86,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "安全带未系提醒",
+    "item_en": "Seatbelt Reminder",
+    "value_cn": "全车",
+    "value_en": "All seats"
+  },
+  {
+    "row": 87,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "ISOFIX儿童座椅接口",
+    "item_en": "ISOFIX Anchors",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 88,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "车道偏离预警系统",
+    "item_en": "Lane Departure Warning",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 89,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "主动刹车/主动安全系统",
+    "item_en": "Autonomous Emergency Braking",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 90,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "疲劳驾驶提示",
+    "item_en": "Driver Fatigue Alert",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 91,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "DOW开门预警",
+    "item_en": "Door Open Warning",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 92,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "前方碰撞预警",
+    "item_en": "Forward Collision Warning",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 93,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "后方碰撞预警",
+    "item_en": "Rear Collision Warning",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 94,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "哨兵模式/千里眼",
+    "item_en": "Sentry Mode",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 95,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "低速行车警告",
+    "item_en": "Low Speed Acoustic Warning",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 96,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "内置行车记录仪",
+    "item_en": "Built in Dashcam",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 97,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "道路救援呼叫",
+    "item_en": "Roadside Assistance Call",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 98,
+    "category_cn": "主动安全",
+    "category_en": "Active Safety",
+    "item_cn": "防侧翻系统",
+    "item_en": "Rollover Prevention",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 99,
+    "category_cn": "驾驶操控",
+    "category_en": "Driving Control",
+    "item_cn": "驾驶模式切换",
+    "item_en": "Drive Modes",
+    "value_cn": "运动/经济/标准舒适/雪地",
+    "value_en": "Sport / Eco / Normal / Snow"
+  },
+  {
+    "row": 100,
+    "category_cn": "驾驶操控",
+    "category_en": "Driving Control",
+    "item_cn": "能量回收系统",
+    "item_en": "Regenerative Braking",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 101,
+    "category_cn": "驾驶操控",
+    "category_en": "Driving Control",
+    "item_cn": "自动驻车",
+    "item_en": "Auto Hold",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 102,
+    "category_cn": "驾驶操控",
+    "category_en": "Driving Control",
+    "item_cn": "上坡辅助",
+    "item_en": "Hill Start Assist",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 103,
+    "category_cn": "驾驶操控",
+    "category_en": "Driving Control",
+    "item_cn": "陡坡缓降",
+    "item_en": "Hill Descent Control",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 104,
+    "category_cn": "驾驶操控",
+    "category_en": "Driving Control",
+    "item_cn": "可变悬架功能",
+    "item_en": "Adaptive Suspension",
+    "value_cn": "悬架软硬调节",
+    "value_en": "Stiffness adjustment"
+  },
+  {
+    "row": 105,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "前/后驻车雷达",
+    "item_en": "Parking Sensors",
+    "value_cn": "前有，后有",
+    "value_en": "Front and rear"
+  },
+  {
+    "row": 106,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "驾驶辅助影像",
+    "item_en": "Driver Assist Camera",
+    "value_cn": "360度全景影像",
+    "value_en": "360 degree surround view"
+  },
+  {
+    "row": 107,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "透明底盘/540度影像",
+    "item_en": "Transparent Chassis",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 108,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "辅助驾驶芯片",
+    "item_en": "ADAS Chip",
+    "value_cn": "英伟达 Orin-N",
+    "value_en": "NVIDIA Orin-N"
+  },
+  {
+    "row": 109,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "芯片总算力",
+    "item_en": "Chip Compute",
+    "value_cn": "84 TOPS",
+    "value_en": "84 TOPS"
+  },
+  {
+    "row": 110,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "前方感知摄像头",
+    "item_en": "Front Camera",
+    "value_cn": "三目",
+    "value_en": "Triple camera"
+  },
+  {
+    "row": 111,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "摄像头数量",
+    "item_en": "Camera Count",
+    "value_cn": "12 个",
+    "value_en": "12"
+  },
+  {
+    "row": 112,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "车内摄像头数量",
+    "item_en": "Interior Camera Count",
+    "value_cn": "1 个",
+    "value_en": "1"
+  },
+  {
+    "row": 113,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "超声波雷达数量",
+    "item_en": "Ultrasonic Sensors",
+    "value_cn": "12 个",
+    "value_en": "12"
+  },
+  {
+    "row": 114,
+    "category_cn": "驾驶硬件",
+    "category_en": "Driving Hardware",
+    "item_cn": "毫米波雷达数量",
+    "item_en": "Millimeter Wave Radars",
+    "value_cn": "5 个",
+    "value_en": "5"
+  },
+  {
+    "row": 115,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "巡航系统",
+    "item_en": "Cruise Control",
+    "value_cn": "全速自适应巡航",
+    "value_en": "Full speed adaptive cruise"
+  },
+  {
+    "row": 116,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "辅助驾驶系统",
+    "item_en": "ADAS System",
+    "value_cn": "DiPilot 100",
+    "value_en": "DiPilot 100"
+  },
+  {
+    "row": 117,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "辅助驾驶等级",
+    "item_en": "ADAS Level",
+    "value_cn": "L2",
+    "value_en": "L2"
+  },
+  {
+    "row": 118,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "倒车车侧预警",
+    "item_en": "Rear Cross Traffic Alert",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 119,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "卫星导航系统",
+    "item_en": "Satellite Navigation",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 120,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "导航路况信息显示",
+    "item_en": "Traffic Display",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 121,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "地图品牌",
+    "item_en": "Map Provider",
+    "value_cn": "百度",
+    "value_en": "Baidu"
+  },
+  {
+    "row": 122,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "并线辅助",
+    "item_en": "Blind Spot Assist",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 123,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "车道保持辅助系统",
+    "item_en": "Lane Keeping Assist",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 124,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "车道居中保持",
+    "item_en": "Lane Centering",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 125,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "道路交通标识识别",
+    "item_en": "Traffic Sign Recognition",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 126,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "辅助泊车入位",
+    "item_en": "Automatic Parking",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 127,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "遥控泊车",
+    "item_en": "Remote Parking",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 128,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "辅助变道",
+    "item_en": "Lane Change Assist",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 129,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "辅助匝道自动驶出（入）",
+    "item_en": "Ramp Assist",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 130,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "方向盘离手检测",
+    "item_en": "Hands Off Detection",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 131,
+    "category_cn": "驾驶功能",
+    "category_en": "Driving Features",
+    "item_cn": "辅助驾驶路段",
+    "item_en": "Supported Roads",
+    "value_cn": "高速路段",
+    "value_en": "Highway"
+  },
+  {
+    "row": 132,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "轮圈材质",
+    "item_en": "Wheel Material",
+    "value_cn": "铝合金",
+    "value_en": "Aluminum alloy"
+  },
+  {
+    "row": 133,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "电动后备厢",
+    "item_en": "Power Tailgate",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 134,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "电动后备厢位置记忆",
+    "item_en": "Tailgate Memory",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 135,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "车顶行李架",
+    "item_en": "Roof Rack",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 136,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "车内中控锁",
+    "item_en": "Central Locking",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 137,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "钥匙类型",
+    "item_en": "Key Types",
+    "value_cn": "遥控钥匙/蓝牙钥匙/NFC/RFID钥匙",
+    "value_en": "Remote / Bluetooth / NFC/RFID"
+  },
+  {
+    "row": 138,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "无钥匙启动系统",
+    "item_en": "Keyless Start",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 139,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "无钥匙进入功能",
+    "item_en": "Keyless Entry",
+    "value_cn": "前排",
+    "value_en": "Front row"
+  },
+  {
+    "row": 140,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "主动闭合式进气格栅",
+    "item_en": "Active Grille Shutter",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 141,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "远程启动功能",
+    "item_en": "Remote Start",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 142,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "电池预加热",
+    "item_en": "Battery Preheating",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 143,
+    "category_cn": "外观/防盗",
+    "category_en": "Exterior and Security",
+    "item_cn": "对外放电",
+    "item_en": "Vehicle to Load",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 144,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "近光灯光源",
+    "item_en": "Low Beam",
+    "value_cn": "LED",
+    "value_en": "LED"
+  },
+  {
+    "row": 145,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "远光灯光源",
+    "item_en": "High Beam",
+    "value_cn": "LED",
+    "value_en": "LED"
+  },
+  {
+    "row": 146,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "LED日间行车灯",
+    "item_en": "LED DRL",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 147,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "自适应远近光",
+    "item_en": "Adaptive High Beam",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 148,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "自动头灯",
+    "item_en": "Automatic Headlights",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 149,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "转向辅助灯",
+    "item_en": "Cornering Light",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 150,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "车前雾灯",
+    "item_en": "Front Fog Lights",
+    "value_cn": "无",
+    "value_en": "Not available"
+  },
+  {
+    "row": 151,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "大灯高度可调",
+    "item_en": "Headlight Leveling",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 152,
+    "category_cn": "车外灯光",
+    "category_en": "Exterior Lights",
+    "item_cn": "大灯延时关闭",
+    "item_en": "Headlight Delay Off",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 153,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "天窗类型",
+    "item_en": "Sunroof Type",
+    "value_cn": "不可开启全景天窗",
+    "value_en": "Fixed panoramic sunroof"
+  },
+  {
+    "row": 154,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "前/后电动车窗",
+    "item_en": "Power Windows",
+    "value_cn": "前/后",
+    "value_en": "Front and rear"
+  },
+  {
+    "row": 155,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "车窗一键升降功能",
+    "item_en": "One Touch Windows",
+    "value_cn": "全车",
+    "value_en": "All windows"
+  },
+  {
+    "row": 156,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "车窗防夹手功能",
+    "item_en": "Anti Pinch Windows",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 157,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "侧窗多层隔音玻璃",
+    "item_en": "Acoustic Side Windows",
+    "value_cn": "前排",
+    "value_en": "Front row"
+  },
+  {
+    "row": 158,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "后排侧隐私玻璃",
+    "item_en": "Rear Privacy Glass",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 159,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "车内化妆镜",
+    "item_en": "Vanity Mirrors",
+    "value_cn": "主驾+照明/副驾+照明",
+    "value_en": "Driver and passenger with lights"
+  },
+  {
+    "row": 160,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "后雨刷",
+    "item_en": "Rear Wiper",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 161,
+    "category_cn": "天窗/玻璃",
+    "category_en": "Sunroof and Glass",
+    "item_cn": "感应雨刷功能",
+    "item_en": "Rain Sensing Wipers",
+    "value_cn": "雨量感应式",
+    "value_en": "Rain sensing"
+  },
+  {
+    "row": 162,
+    "category_cn": "外后视镜",
+    "category_en": "Mirrors",
+    "item_cn": "外后视镜功能",
+    "item_en": "Exterior Mirrors",
+    "value_cn": "电动调节/电动折叠/后视镜加热/锁车自动折叠",
+    "value_en": "Power adjust / fold / heated / auto fold on lock"
+  },
+  {
+    "row": 163,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "中控彩色屏幕",
+    "item_en": "Center Touchscreen",
+    "value_cn": "触控液晶屏",
+    "value_en": "Touchscreen LCD"
+  },
+  {
+    "row": 164,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "中控屏幕尺寸",
+    "item_en": "Screen Size",
+    "value_cn": "15.6 英寸",
+    "value_en": "15.6 inch"
+  },
+  {
+    "row": 165,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "中控液晶屏分屏显示",
+    "item_en": "Split Screen Display",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 166,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "蓝牙/车载电话",
+    "item_en": "Bluetooth Phone",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 167,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "手机互联/映射",
+    "item_en": "Smartphone Integration",
+    "value_cn": "无",
+    "value_en": "Not available"
+  },
+  {
+    "row": 168,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "语音识别控制系统",
+    "item_en": "Voice Control",
+    "value_cn": "多媒体/导航/电话/空调/车窗",
+    "value_en": "Media / Navigation / Phone / AC / Windows"
+  },
+  {
+    "row": 169,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "语音助手唤醒词",
+    "item_en": "Wake Word",
+    "value_cn": "你好，小迪",
+    "value_en": "Hello Xiao Di"
+  },
+  {
+    "row": 170,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "语音免唤醒词",
+    "item_en": "Wake Free Voice",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 171,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "语音分区域唤醒识别",
+    "item_en": "Zone Voice Recognition",
+    "value_cn": "四区域",
+    "value_en": "Four zones"
+  },
+  {
+    "row": 172,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "语音连续识别",
+    "item_en": "Continuous Voice Recognition",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 173,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "可见即可说",
+    "item_en": "See and Speak",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 174,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "应用商店",
+    "item_en": "App Store",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 175,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "车载智能系统",
+    "item_en": "Infotainment System",
+    "value_cn": "DiLink",
+    "value_en": "DiLink"
+  },
+  {
+    "row": 176,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "车机智能芯片",
+    "item_en": "Infotainment Chip",
+    "value_cn": "比亚迪D100",
+    "value_en": "BYD D100"
+  },
+  {
+    "row": 177,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "车联网",
+    "item_en": "Connected Services",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 178,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "4G/5G网络",
+    "item_en": "Network",
+    "value_cn": "5G",
+    "value_en": "5G"
+  },
+  {
+    "row": 179,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "Wi-Fi热点",
+    "item_en": "Wi-Fi Hotspot",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 180,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "手机APP远程功能",
+    "item_en": "APP Remote Functions",
+    "value_cn": "车门控制/车窗控制/车辆启动/充电管理/空调控制/车况查询诊断/车辆定位寻车/车主服务/预约保养维修",
+    "value_en": "Door / Window / Start / Charge / AC / Diagnostics / Location / Services / Maintenance booking"
+  },
+  {
+    "row": 181,
+    "category_cn": "互联/智能化",
+    "category_en": "Connectivity",
+    "item_cn": "车载KTV",
+    "item_en": "Car KTV",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 182,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "方向盘材质",
+    "item_en": "Steering Wheel",
+    "value_cn": "皮质",
+    "value_en": "Leatherette"
+  },
+  {
+    "row": 183,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "方向盘位置调节",
+    "item_en": "Wheel Adjustment",
+    "value_cn": "手动上下+前后调节",
+    "value_en": "Manual tilt and telescopic"
+  },
+  {
+    "row": 184,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "换挡形式",
+    "item_en": "Gear Shifter",
+    "value_cn": "电子式怀挡换挡",
+    "value_en": "Electronic column shifter"
+  },
+  {
+    "row": 185,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "多功能方向盘",
+    "item_en": "Multifunction Wheel",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 186,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "方向盘加热",
+    "item_en": "Heated Wheel",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 187,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "方向盘记忆",
+    "item_en": "Wheel Memory",
+    "value_cn": "无",
+    "value_en": "Not available"
+  },
+  {
+    "row": 188,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "行车电脑显示屏幕",
+    "item_en": "Trip Computer Display",
+    "value_cn": "彩色",
+    "value_en": "Color"
+  },
+  {
+    "row": 189,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "全液晶仪表盘",
+    "item_en": "Digital Instrument Cluster",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 190,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "液晶仪表尺寸",
+    "item_en": "Cluster Size",
+    "value_cn": "10.25 英寸",
+    "value_en": "10.25 inch"
+  },
+  {
+    "row": 191,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "HUD抬头数字显示",
+    "item_en": "Head Up Display",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 192,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "HUD抬头尺寸",
+    "item_en": "HUD Size",
+    "value_cn": "26 英寸",
+    "value_en": "26 inch"
+  },
+  {
+    "row": 193,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "内后视镜功能",
+    "item_en": "Rearview Mirror",
+    "value_cn": "自动防眩目",
+    "value_en": "Auto anti glare"
+  },
+  {
+    "row": 194,
+    "category_cn": "方向盘/内后视镜",
+    "category_en": "Steering and Mirrors",
+    "item_cn": "ETC装置",
+    "item_en": "ETC Device",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 195,
+    "category_cn": "车内充电",
+    "category_en": "In Car Charging",
+    "item_cn": "多媒体/充电接口",
+    "item_en": "Ports",
+    "value_cn": "USB / Type-C",
+    "value_en": "USB / Type-C"
+  },
+  {
+    "row": 196,
+    "category_cn": "车内充电",
+    "category_en": "In Car Charging",
+    "item_cn": "USB/Type-C接口数量",
+    "item_en": "Port Count",
+    "value_cn": "前排2个/后排2个",
+    "value_en": "2 front / 2 rear"
+  },
+  {
+    "row": 197,
+    "category_cn": "车内充电",
+    "category_en": "In Car Charging",
+    "item_cn": "手机无线充电功能",
+    "item_en": "Wireless Charging",
+    "value_cn": "前排",
+    "value_en": "Front row"
+  },
+  {
+    "row": 198,
+    "category_cn": "车内充电",
+    "category_en": "In Car Charging",
+    "item_cn": "手机无线充电功率",
+    "item_en": "Wireless Charge Power",
+    "value_cn": "50W",
+    "value_en": "50W"
+  },
+  {
+    "row": 199,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "座椅材质",
+    "item_en": "Seat Material",
+    "value_cn": "仿皮",
+    "value_en": "Leatherette"
+  },
+  {
+    "row": 200,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "主座椅调节方式",
+    "item_en": "Driver Adjustment",
+    "value_cn": "前后调节/靠背调节/高低调节（4向）/腰部支撑（4向）",
+    "value_en": "Fore aft / recline / height (4 way) / lumbar (4 way)"
+  },
+  {
+    "row": 201,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "副座椅调节方式",
+    "item_en": "Passenger Adjustment",
+    "value_cn": "前后调节/靠背调节",
+    "value_en": "Fore aft / recline"
+  },
+  {
+    "row": 202,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "主/副驾驶座电动调节",
+    "item_en": "Power Seats",
+    "value_cn": "主驾电动，副驾电动",
+    "value_en": "Both power"
+  },
+  {
+    "row": 203,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "前排座椅功能",
+    "item_en": "Front Seat Functions",
+    "value_cn": "加热/通风",
+    "value_en": "Heating / ventilation"
+  },
+  {
+    "row": 204,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "电动座椅记忆功能",
+    "item_en": "Seat Memory",
+    "value_cn": "无",
+    "value_en": "Not available"
+  },
+  {
+    "row": 205,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "副驾驶位后排可调节按钮",
+    "item_en": "Boss Button",
+    "value_cn": "无",
+    "value_en": "Not available"
+  },
+  {
+    "row": 206,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "第二排座椅调节",
+    "item_en": "Second Row Adjustment",
+    "value_cn": "靠背调节",
+    "value_en": "Recline"
+  },
+  {
+    "row": 207,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "后排座椅放倒形式",
+    "item_en": "Rear Seat Folding",
+    "value_cn": "比例放倒",
+    "value_en": "Split fold"
+  },
+  {
+    "row": 208,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "前/后中央扶手",
+    "item_en": "Center Armrests",
+    "value_cn": "前/后",
+    "value_en": "Front and rear"
+  },
+  {
+    "row": 209,
+    "category_cn": "座椅配置",
+    "category_en": "Seats",
+    "item_cn": "后排杯架",
+    "item_en": "Rear Cup Holders",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 210,
+    "category_cn": "音响/车内灯光",
+    "category_en": "Audio and Lighting",
+    "item_cn": "扬声器品牌名称",
+    "item_en": "Speaker Brand",
+    "value_cn": "Dynaudio丹拿",
+    "value_en": "Dynaudio"
+  },
+  {
+    "row": 211,
+    "category_cn": "音响/车内灯光",
+    "category_en": "Audio and Lighting",
+    "item_cn": "扬声器数量",
+    "item_en": "Speaker Count",
+    "value_cn": "12 喇叭",
+    "value_en": "12 speakers"
+  },
+  {
+    "row": 212,
+    "category_cn": "音响/车内灯光",
+    "category_en": "Audio and Lighting",
+    "item_cn": "车内环境氛围灯",
+    "item_en": "Ambient Lighting",
+    "value_cn": "多色",
+    "value_en": "Multi color"
+  },
+  {
+    "row": 213,
+    "category_cn": "音响/车内灯光",
+    "category_en": "Audio and Lighting",
+    "item_cn": "主动式环境氛围灯",
+    "item_en": "Active Ambient Light",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 214,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "空调温度控制方式",
+    "item_en": "AC Control",
+    "value_cn": "自动空调",
+    "value_en": "Automatic climate control"
+  },
+  {
+    "row": 215,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "热泵空调",
+    "item_en": "Heat Pump AC",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 216,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "后排独立空调",
+    "item_en": "Rear Independent AC",
+    "value_cn": "无",
+    "value_en": "Not available"
+  },
+  {
+    "row": 217,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "后座出风口",
+    "item_en": "Rear Air Vents",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 218,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "温度分区控制",
+    "item_en": "Dual Zone AC",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 219,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "车载空气净化器",
+    "item_en": "Air Purifier",
+    "value_cn": "无",
+    "value_en": "Not available"
+  },
+  {
+    "row": 220,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "车内PM2.5过滤装置",
+    "item_en": "PM2.5 Filter",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  },
+  {
+    "row": 221,
+    "category_cn": "空调/冰箱",
+    "category_en": "Air Conditioning",
+    "item_cn": "车载冰箱",
+    "item_en": "In Car Refrigerator",
+    "value_cn": "标配",
+    "value_en": "Standard"
+  }
+]

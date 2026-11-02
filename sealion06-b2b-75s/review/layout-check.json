@@ -1,0 +1,17 @@
+{
+  "status": "draft layout only",
+  "frames": [
+    200,
+    600,
+    900,
+    1250,
+    1600,
+    1930,
+    2190
+  ],
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 2250,
+  "fps": 30,
+  "photoIntegrationVerified": false
+}

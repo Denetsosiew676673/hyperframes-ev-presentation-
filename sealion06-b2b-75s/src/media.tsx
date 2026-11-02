@@ -1,0 +1,3 @@
+import {Img,staticFile} from 'remotion';
+import {CONFIG} from './config';
+export const ProductPhoto=({src,x=770,y=286,width=1060,height=568}:{src:string;x?:number;y?:number;width?:number;height?:number})=> <div style={{position:'absolute',left:x,top:y,width,height,overflow:'hidden',borderRadius:12,background:CONFIG.colors.surface}}>{src?<Img src={staticFile(src)} style={{width:'100%',height:'100%',objectFit:'contain'}}/>:<div style={{height:'100%',display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center',gap:20,color:CONFIG.colors.muted,fontFamily:CONFIG.fonts.body}}><div style={{fontSize:34}}>{CONFIG.copy.photoPending}</div><div style={{fontSize:32}}>{CONFIG.copy.photoPendingNote}</div></div>}</div>;

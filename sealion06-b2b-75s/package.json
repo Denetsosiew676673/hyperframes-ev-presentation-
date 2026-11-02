@@ -1,0 +1,23 @@
+{
+  "name": "uniland-sealion06-b2b-75s",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.tsx --no-open --port=3040",
+    "typecheck": "tsc --noEmit",
+    "render": "node scripts/check-assets.mjs && remotion render src/index.tsx Sealion06 renders/visual.mp4 --muted --browser-executable=/usr/bin/chromium --concurrency=3 --crf=18 --props=production-props.json",
+    "finalize": "python3 scripts/finalize.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  },
+  "type": "module"
+}

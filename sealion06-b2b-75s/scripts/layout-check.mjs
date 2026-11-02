@@ -1,0 +1,11 @@
+import {bundle} from '@remotion/bundler';
+import {renderStill,selectComposition} from '@remotion/renderer';
+import {resolve} from 'node:path';
+import {writeFileSync} from 'node:fs';
+const root=resolve(import.meta.dirname,'..');
+const serveUrl=await bundle({entryPoint:resolve(root,'src/index.tsx'),publicDir:resolve(root,'public')});
+const composition=await selectComposition({serveUrl,id:'Sealion06',browserExecutable:'/usr/bin/chromium'});
+const frames=[200,600,900,1250,1600,1930,2190];
+for(let i=0;i<frames.length;i+=2)await Promise.all(frames.slice(i,i+2).map(frame=>renderStill({serveUrl,composition,frame,output:resolve(root,`review/layout-${frame}.png`),browserExecutable:'/usr/bin/chromium',imageFormat:'png'})));
+writeFileSync(resolve(root,'review/layout-check.json'),JSON.stringify({status:'draft layout only',frames,width:composition.width,height:composition.height,durationInFrames:composition.durationInFrames,fps:composition.fps,photoIntegrationVerified:false},null,2));
+console.log('Seven draft layout frames rendered. Original-photo integration remains pending.');

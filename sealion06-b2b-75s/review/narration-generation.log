@@ -1,0 +1,8 @@
+[0;93m2026-11-02 07:10:34.151242686 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+{'scene': 'range', 'start': 0.12, 'end': 12.233541666666666, 'synthesis_speed': 0.94}
+{'scene': 'performance', 'start': 14.12, 'end': 22.00275, 'synthesis_speed': 0.94}
+{'scene': 'charging', 'start': 24.12, 'end': 32.517125, 'synthesis_speed': 0.94}
+{'scene': 'assistance', 'start': 34.12, 'end': 45.75749999999999, 'synthesis_speed': 0.94}
+{'scene': 'comfort', 'start': 46.12, 'end': 55.11445833333333, 'synthesis_speed': 0.94}
+{'scene': 'safety', 'start': 58.12, 'end': 69.17683333333333, 'synthesis_speed': 0.94}
+{'scene': 'cta', 'start': 71.12, 'end': 73.47791666666667, 'synthesis_speed': 0.94}
