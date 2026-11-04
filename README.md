@@ -83,3 +83,12 @@ Same90-second Yuan UP film with Spanish male narration and synchronized Spanish 
 - [Download Spanish MP4](yuan-up-spec-lab-90s/renders/yuan-up-uniland-spec-lab-90s-es.mp4)
 - [Spanish MP4 without music](yuan-up-spec-lab-90s/renders/yuan-up-uniland-spec-lab-90s-es-no-music.mp4)
 - [Spanish SRT subtitles](yuan-up-spec-lab-90s/subtitles-es.srt)
+
+
+## AION Y Plus 510 Zhixiang · Spanish · 60 seconds
+
+1920 × 1080 landscape, 30 fps. Spanish male narration and subtitles, with Chinese supporting labels.
+
+- [Download the MP4](aion-y-plus-60s/renders/aion-y-plus-510-es-60s.mp4)
+
+60-second H.264 MP4, approximately 8.5 MB. Contact details remain placeholders.
