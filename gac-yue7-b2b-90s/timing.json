@@ -1,0 +1,205 @@
+{
+  "phrases": [
+    {
+      "s": 0,
+      "text": "Meet the all-new GAC YUE7, a premium PHEV off-road SUV.",
+      "speak": "Meet the all-new G A C YUE seven, a premium P H E V off-road S U V.",
+      "duration": 6.08,
+      "start": 0.5
+    },
+    {
+      "s": 1,
+      "text": "Front, center & rear differential locks + AI terrain master system.",
+      "speak": "Front, centre and rear differential locks, plus A I terrain master system.",
+      "duration": 4.906666666666666,
+      "start": 7.2065
+    },
+    {
+      "s": 1,
+      "text": "Optional dual-chamber air suspension.",
+      "speak": "Optional dual-chamber air suspension.",
+      "duration": 2.624,
+      "start": 12.2632
+    },
+    {
+      "s": 1,
+      "text": "Max ground clearance 310mm.",
+      "speak": "Maximum ground clearance, three hundred and ten millimetres.",
+      "v": "310",
+      "unit": "mm",
+      "label": "Ground clearance",
+      "duration": 3.989333333333333,
+      "start": 15.0372
+    },
+    {
+      "s": 1,
+      "text": "780mm wading depth, available for off-road and daily commute.",
+      "speak": "Seven hundred and eighty millimetres wading depth, available for off-road and daily commute.",
+      "v": "780",
+      "unit": "mm",
+      "label": "Wading depth",
+      "duration": 6.357333333333333,
+      "start": 19.1765
+    },
+    {
+      "s": 2,
+      "text": "46kWh CATL battery.",
+      "speak": "Forty-six kilowatt-hour C A T L battery.",
+      "v": "46",
+      "unit": "kWh",
+      "label": "CATL battery",
+      "duration": 3.2213333333333334,
+      "start": 26.0971
+    },
+    {
+      "s": 2,
+      "text": "CLTC pure electric range 261km.",
+      "speak": "C L T C pure electric range, two hundred and sixty-one kilometres.",
+      "v": "261",
+      "unit": "km",
+      "label": "CLTC EV range",
+      "duration": 5.589333333333333,
+      "start": 29.4684
+    },
+    {
+      "s": 2,
+      "text": "0\u2013100km/h in 4.2s.",
+      "speak": "Zero to one hundred kilometres per hour, in four point two seconds.",
+      "v": "4.2",
+      "unit": "s",
+      "label": "0\u2013100 km/h",
+      "duration": 4.629333333333333,
+      "start": 35.2077
+    },
+    {
+      "s": 2,
+      "text": "30%\u201380% fast charge only takes 15 minutes.",
+      "speak": "Thirty to eighty percent fast charge only takes fifteen minutes.",
+      "v": "15",
+      "unit": "min",
+      "label": "Fast charge \u00b7 30%\u201380%",
+      "duration": 4.352,
+      "start": 39.9871
+    },
+    {
+      "s": 3,
+      "text": "2900mm wheelbase.",
+      "speak": "Two thousand nine hundred millimetre wheelbase.",
+      "v": "2900",
+      "unit": "mm",
+      "label": "Wheelbase",
+      "duration": 3.456,
+      "start": 44.9023
+    },
+    {
+      "s": 3,
+      "text": "Cargo volume 745L to 1860L.",
+      "speak": "Cargo volume, seven hundred and forty-five to one thousand eight hundred and sixty litres.",
+      "v": "745\u20131860",
+      "unit": "L",
+      "label": "Cargo volume",
+      "duration": 6.144,
+      "start": 48.5083
+    },
+    {
+      "s": 3,
+      "text": "Rear seats fold flat into a 1.9m bed.",
+      "speak": "With rear seats folded flat into a one point nine metre bed.",
+      "v": "1.9",
+      "unit": "m",
+      "label": "Fold-flat bed",
+      "duration": 4.266666666666667,
+      "start": 54.8023
+    },
+    {
+      "s": 3,
+      "text": "Built-in 220V V2L outlet.",
+      "speak": "Built-in two hundred and twenty volt V two L outlet.",
+      "v": "220",
+      "unit": "V",
+      "label": "V2L power outlet",
+      "duration": 3.904,
+      "start": 59.219
+    },
+    {
+      "s": 3,
+      "text": "37 factory expansion points for camping.",
+      "speak": "And thirty-seven factory expansion points for camping.",
+      "v": "37",
+      "unit": "",
+      "label": "Factory expansion points",
+      "duration": 3.712,
+      "start": 63.273
+    },
+    {
+      "s": 4,
+      "text": "Starship integrated ladder frame architecture.",
+      "speak": "Starship integrated ladder frame architecture.",
+      "duration": 3.3066666666666666,
+      "start": 67.5482
+    },
+    {
+      "s": 4,
+      "text": "Torsional rigidity 38000 N\u00b7m/\u00b0.",
+      "speak": "Torsional rigidity, thirty-eight thousand newton metres per degree.",
+      "v": "38000",
+      "unit": "N\u00b7m/\u00b0",
+      "label": "Torsional rigidity",
+      "duration": 4.373333333333333,
+      "start": 71.0049
+    },
+    {
+      "s": 4,
+      "text": "2200MPa ultra-high strength A-pillar roll cage.",
+      "speak": "Two thousand two hundred megapascals, ultra-high strength A-pillar roll cage.",
+      "v": "2200",
+      "unit": "MPa",
+      "label": "A-pillar roll cage",
+      "duration": 5.397333333333333,
+      "start": 75.5282
+    },
+    {
+      "s": 4,
+      "text": "Roof load 120kN.",
+      "speak": "Roof load, one hundred and twenty kilonewtons.",
+      "v": "120",
+      "unit": "kN",
+      "label": "Roof load",
+      "duration": 3.2,
+      "start": 81.0756
+    },
+    {
+      "s": 5,
+      "text": "GAC YUE7, robust, spacious and ready for every adventure.",
+      "speak": "G A C YUE seven. Robust, spacious, and ready for every adventure.",
+      "duration": 5.034666666666666,
+      "start": 84.8388
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 6.7065
+    },
+    {
+      "start": 6.7065,
+      "end": 25.5971
+    },
+    {
+      "start": 25.5971,
+      "end": 44.4023
+    },
+    {
+      "start": 44.4023,
+      "end": 67.0482
+    },
+    {
+      "start": 67.0482,
+      "end": 84.3388
+    },
+    {
+      "start": 84.3388,
+      "end": 90
+    }
+  ]
+}
