@@ -1,0 +1,127 @@
+{
+  "duration": 90.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "file_bytes": 28651840,
+  "all_19_narration_phrases_verified": true,
+  "narration_correlation": [
+    {
+      "phrase": 0,
+      "start": 0.5,
+      "correlation": 0.9942,
+      "text": "Meet the all-new GAC YUE7, a premium PHEV off-road SUV."
+    },
+    {
+      "phrase": 1,
+      "start": 7.2065,
+      "correlation": 0.993,
+      "text": "Front, center & rear differential locks + AI terrain master system."
+    },
+    {
+      "phrase": 2,
+      "start": 12.2632,
+      "correlation": 0.9927,
+      "text": "Optional dual-chamber air suspension."
+    },
+    {
+      "phrase": 3,
+      "start": 15.0372,
+      "correlation": 0.9937,
+      "text": "Max ground clearance 310mm."
+    },
+    {
+      "phrase": 4,
+      "start": 19.1765,
+      "correlation": 0.9926,
+      "text": "780mm wading depth, available for off-road and daily commute."
+    },
+    {
+      "phrase": 5,
+      "start": 26.0971,
+      "correlation": 0.9276,
+      "text": "46kWh CATL battery."
+    },
+    {
+      "phrase": 6,
+      "start": 29.4684,
+      "correlation": 0.9599,
+      "text": "CLTC pure electric range 261km."
+    },
+    {
+      "phrase": 7,
+      "start": 35.2077,
+      "correlation": 0.9924,
+      "text": "0\u2013100km/h in 4.2s."
+    },
+    {
+      "phrase": 8,
+      "start": 39.9871,
+      "correlation": 0.9268,
+      "text": "30%\u201380% fast charge only takes 15 minutes."
+    },
+    {
+      "phrase": 9,
+      "start": 44.9023,
+      "correlation": 0.9634,
+      "text": "2900mm wheelbase."
+    },
+    {
+      "phrase": 10,
+      "start": 48.5083,
+      "correlation": 0.9607,
+      "text": "Cargo volume 745L to 1860L."
+    },
+    {
+      "phrase": 11,
+      "start": 54.8023,
+      "correlation": 0.9629,
+      "text": "Rear seats fold flat into a 1.9m bed."
+    },
+    {
+      "phrase": 12,
+      "start": 59.219,
+      "correlation": 0.9841,
+      "text": "Built-in 220V V2L outlet."
+    },
+    {
+      "phrase": 13,
+      "start": 63.273,
+      "correlation": 0.9931,
+      "text": "37 factory expansion points for camping."
+    },
+    {
+      "phrase": 14,
+      "start": 67.5482,
+      "correlation": 0.9927,
+      "text": "Starship integrated ladder frame architecture."
+    },
+    {
+      "phrase": 15,
+      "start": 71.0049,
+      "correlation": 0.962,
+      "text": "Torsional rigidity 38000 N\u00b7m/\u00b0."
+    },
+    {
+      "phrase": 16,
+      "start": 75.5282,
+      "correlation": 0.9928,
+      "text": "2200MPa ultra-high strength A-pillar roll cage."
+    },
+    {
+      "phrase": 17,
+      "start": 81.0756,
+      "correlation": 0.9327,
+      "text": "Roof load 120kN."
+    },
+    {
+      "phrase": 18,
+      "start": 84.8388,
+      "correlation": 0.9857,
+      "text": "GAC YUE7, robust, spacious and ready for every adventure."
+    }
+  ]
+}

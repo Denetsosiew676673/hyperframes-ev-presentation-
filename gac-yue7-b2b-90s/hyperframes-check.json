@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "checks": {
+    "lint": {
+      "errors": 0,
+      "warnings": 6
+    },
+    "runtime": {
+      "errors": 0,
+      "warnings": 0
+    },
+    "layout": {
+      "errors": 0,
+      "warnings": 0
+    },
+    "motion": {
+      "errors": 0,
+      "warnings": 0
+    },
+    "contrast": {
+      "errors": 0,
+      "warnings": 0
+    },
+    "craft": {
+      "errors": 0,
+      "warnings": 1
+    },
+    "audio": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  "notes": [
+    "Six structural lint warnings retained to preserve the requested single-HTML composition.",
+    "Rolling numerical glyphs and scene dissolves are intentional.",
+    "Visual hero frames and parameter highlights were reviewed."
+  ]
+}
